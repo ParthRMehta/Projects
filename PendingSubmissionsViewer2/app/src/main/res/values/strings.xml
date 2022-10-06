@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Pending Submissions Viewer</string>
+    <string name="logout">Logout</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="signed_out">Signed Out</string>
+    <string name="desc_google_icon">Description of the app</string>
+    <string name="intro_desc">Viewing and sharing all the pending submissions of the students of your Google Classroom is now a lot more easier than ever.</string>
+    <string name="sign_in_req">Kindly sign-in using your teacher Google account to continue.</string>
+    <string name="loading">Loading…</string>
+    <string name="courses_load_fail">Could not load the courses due to an unexpected error.</string>
+    <string name="todo">TODO</string>
+    <string name="course_name">Course Name</string>
+    <string name="no_courses_found">
+        We could not find any course in your Google Classrooms where you are a teacher.
+        \n\n
+        Are you sure about the account you selected while logging in? (%s).
+        \n\n\n
+        If not, then log out from the current account using the action button on the top-right corner of the screen and try selecting the expected Google account the next time you log in.
+        \n\nor\n\n
+        Create a new class or join an existing class as a teacher and then refresh the app by swiping from top to bottom while the refresh indicator appear.
+    </string>
+    <string name="classes_footer_text">Note: You\'re currently viewing only those Google Classrooms where you play the role of a teacher.</string>
+    <string name="sample_text">Hello World, here are all your assignments</string>
+    <string name="no_assignments_found">No assignments were found in this classroom.</string>
+    <string name="assignment_name">Assignment Name</string>
+    <string name="copy_to_clipboard">Copy to Clipboard</string>
+    <string name="share">Share</string>
+    <string name="copy_all_to_clipboard">Copy all to clipboard</string>
+    <string name="search_assignments">Search assignments</string>
+</resources>

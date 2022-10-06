@@ -1,0 +1,1577 @@
+Folder PATH listing
+Volume serial number is 1622-8787
+C:.
+³   .gitignore
+³   build.gradle
+³   gradle.properties
+³   gradlew
+³   gradlew.bat
+³   local.properties
+³   settings.gradle
+³   structure
+³   
+ÃÄÄÄ.gradle
+³   ÃÄÄÄ6.7.1
+³   ³   ³   gc.properties
+³   ³   ³   
+³   ³   ÃÄÄÄexecutionHistory
+³   ³   ³       executionHistory.bin
+³   ³   ³       executionHistory.lock
+³   ³   ³       
+³   ³   ÃÄÄÄfileChanges
+³   ³   ³       last-build.bin
+³   ³   ³       
+³   ³   ÃÄÄÄfileHashes
+³   ³   ³       fileHashes.bin
+³   ³   ³       fileHashes.lock
+³   ³   ³       resourceHashesCache.bin
+³   ³   ³       
+³   ³   ÃÄÄÄjavaCompile
+³   ³   ³       classAnalysis.bin
+³   ³   ³       jarAnalysis.bin
+³   ³   ³       javaCompile.lock
+³   ³   ³       taskHistory.bin
+³   ³   ³       
+³   ³   ÀÄÄÄvcsMetadata-1
+³   ÃÄÄÄbuildOutputCleanup
+³   ³       buildOutputCleanup.lock
+³   ³       cache.properties
+³   ³       outputFiles.bin
+³   ³       
+³   ÃÄÄÄchecksums
+³   ³       checksums.lock
+³   ³       md5-checksums.bin
+³   ³       sha1-checksums.bin
+³   ³       
+³   ÃÄÄÄconfiguration-cache
+³   ³       gc.properties
+³   ³       
+³   ÀÄÄÄvcs-1
+³           gc.properties
+³           
+ÃÄÄÄ.idea
+³   ³   .gitignore
+³   ³   .name
+³   ³   assetWizardSettings.xml
+³   ³   compiler.xml
+³   ³   gradle.xml
+³   ³   jarRepositories.xml
+³   ³   misc.xml
+³   ³   modules.xml
+³   ³   runConfigurations.xml
+³   ³   workspace.xml
+³   ³   
+³   ÃÄÄÄlibraries
+³   ³       Gradle__androidx_activity_activity_1_2_3_aar.xml
+³   ³       Gradle__androidx_annotation_annotation_1_2_0.xml
+³   ³       Gradle__androidx_annotation_annotation_experimental_1_0_0_aar.xml
+³   ³       Gradle__androidx_appcompat_appcompat_1_3_0_aar.xml
+³   ³       Gradle__androidx_appcompat_appcompat_resources_1_3_0_aar.xml
+³   ³       Gradle__androidx_arch_core_core_common_2_1_0.xml
+³   ³       Gradle__androidx_arch_core_core_runtime_2_0_0_aar.xml
+³   ³       Gradle__androidx_arch_core_core_runtime_2_1_0_aar.xml
+³   ³       Gradle__androidx_asynclayoutinflater_asynclayoutinflater_1_0_0_aar.xml
+³   ³       Gradle__androidx_browser_browser_1_0_0_aar.xml
+³   ³       Gradle__androidx_cardview_cardview_1_0_0_aar.xml
+³   ³       Gradle__androidx_collection_collection_1_1_0.xml
+³   ³       Gradle__androidx_constraintlayout_constraintlayout_2_0_4_aar.xml
+³   ³       Gradle__androidx_constraintlayout_constraintlayout_solver_2_0_4.xml
+³   ³       Gradle__androidx_coordinatorlayout_coordinatorlayout_1_1_0_aar.xml
+³   ³       Gradle__androidx_core_core_1_5_0_aar.xml
+³   ³       Gradle__androidx_cursoradapter_cursoradapter_1_0_0_aar.xml
+³   ³       Gradle__androidx_customview_customview_1_0_0_aar.xml
+³   ³       Gradle__androidx_documentfile_documentfile_1_0_0_aar.xml
+³   ³       Gradle__androidx_drawerlayout_drawerlayout_1_0_0_aar.xml
+³   ³       Gradle__androidx_dynamicanimation_dynamicanimation_1_0_0_aar.xml
+³   ³       Gradle__androidx_fragment_fragment_1_3_4_aar.xml
+³   ³       Gradle__androidx_interpolator_interpolator_1_0_0_aar.xml
+³   ³       Gradle__androidx_legacy_legacy_support_core_ui_1_0_0_aar.xml
+³   ³       Gradle__androidx_legacy_legacy_support_core_utils_1_0_0_aar.xml
+³   ³       Gradle__androidx_lifecycle_lifecycle_common_2_3_1.xml
+³   ³       Gradle__androidx_lifecycle_lifecycle_livedata_2_0_0_aar.xml
+³   ³       Gradle__androidx_lifecycle_lifecycle_livedata_core_2_3_1_aar.xml
+³   ³       Gradle__androidx_lifecycle_lifecycle_runtime_2_3_1_aar.xml
+³   ³       Gradle__androidx_lifecycle_lifecycle_viewmodel_2_3_1_aar.xml
+³   ³       Gradle__androidx_lifecycle_lifecycle_viewmodel_savedstate_2_3_1_aar.xml
+³   ³       Gradle__androidx_loader_loader_1_0_0_aar.xml
+³   ³       Gradle__androidx_localbroadcastmanager_localbroadcastmanager_1_0_0_aar.xml
+³   ³       Gradle__androidx_multidex_multidex_2_0_0_aar.xml
+³   ³       Gradle__androidx_multidex_multidex_instrumentation_2_0_0_aar.xml
+³   ³       Gradle__androidx_print_print_1_0_0_aar.xml
+³   ³       Gradle__androidx_recyclerview_recyclerview_1_1_0_aar.xml
+³   ³       Gradle__androidx_savedstate_savedstate_1_1_0_aar.xml
+³   ³       Gradle__androidx_slidingpanelayout_slidingpanelayout_1_0_0_aar.xml
+³   ³       Gradle__androidx_swiperefreshlayout_swiperefreshlayout_1_0_0_aar.xml
+³   ³       Gradle__androidx_test_core_1_3_0_aar.xml
+³   ³       Gradle__androidx_test_espresso_espresso_core_3_3_0_aar.xml
+³   ³       Gradle__androidx_test_espresso_espresso_idling_resource_3_3_0_aar.xml
+³   ³       Gradle__androidx_test_ext_junit_1_1_2_aar.xml
+³   ³       Gradle__androidx_test_monitor_1_3_0_aar.xml
+³   ³       Gradle__androidx_test_runner_1_3_0_aar.xml
+³   ³       Gradle__androidx_transition_transition_1_2_0_aar.xml
+³   ³       Gradle__androidx_vectordrawable_vectordrawable_1_1_0_aar.xml
+³   ³       Gradle__androidx_vectordrawable_vectordrawable_animated_1_1_0_aar.xml
+³   ³       Gradle__androidx_versionedparcelable_versionedparcelable_1_1_1_aar.xml
+³   ³       Gradle__androidx_viewpager2_viewpager2_1_0_0_aar.xml
+³   ³       Gradle__androidx_viewpager_viewpager_1_0_0_aar.xml
+³   ³       Gradle__commons_codec_commons_codec_1_10.xml
+³   ³       Gradle__commons_logging_commons_logging_1_2.xml
+³   ³       Gradle__com_bignerdranch_android_expandablerecyclerview_1_0_3_aar.xml
+³   ³       Gradle__com_evrencoskun_library_tableview_0_8_9_4_aar.xml
+³   ³       Gradle__com_fasterxml_jackson_core_jackson_core_2_9_6.xml
+³   ³       Gradle__com_github_woxthebox_draglistview_1_7_2_aar.xml
+³   ³       Gradle__com_google_android_gms_play_services_ads_identifier_17_0_0_aar.xml
+³   ³       Gradle__com_google_android_gms_play_services_auth_19_0_0_aar.xml
+³   ³       Gradle__com_google_android_gms_play_services_auth_api_phone_17_4_0_aar.xml
+³   ³       Gradle__com_google_android_gms_play_services_auth_base_17_0_0_aar.xml
+³   ³       Gradle__com_google_android_gms_play_services_basement_17_1_1_aar.xml
+³   ³       Gradle__com_google_android_gms_play_services_base_17_1_0_aar.xml
+³   ³       Gradle__com_google_android_gms_play_services_measurement_19_0_0_aar.xml
+³   ³       Gradle__com_google_android_gms_play_services_measurement_api_19_0_0_aar.xml
+³   ³       Gradle__com_google_android_gms_play_services_measurement_base_19_0_0_aar.xml
+³   ³       Gradle__com_google_android_gms_play_services_measurement_impl_19_0_0_aar.xml
+³   ³       Gradle__com_google_android_gms_play_services_measurement_sdk_19_0_0_aar.xml
+³   ³       Gradle__com_google_android_gms_play_services_measurement_sdk_api_19_0_0_aar.xml
+³   ³       Gradle__com_google_android_gms_play_services_safetynet_17_0_0_aar.xml
+³   ³       Gradle__com_google_android_gms_play_services_stats_17_0_0_aar.xml
+³   ³       Gradle__com_google_android_gms_play_services_tasks_17_0_0_aar.xml
+³   ³       Gradle__com_google_android_material_material_1_3_0_aar.xml
+³   ³       Gradle__com_google_apis_google_api_services_classroom_v1_rev135_1_23_0.xml
+³   ³       Gradle__com_google_api_client_google_api_client_1_26_0.xml
+³   ³       Gradle__com_google_api_client_google_api_client_android_1_26_0.xml
+³   ³       Gradle__com_google_code_findbugs_jsr305_3_0_2.xml
+³   ³       Gradle__com_google_code_gson_gson_2_1.xml
+³   ³       Gradle__com_google_firebase_firebase_analytics_19_0_0_aar.xml
+³   ³       Gradle__com_google_firebase_firebase_annotations_16_0_0.xml
+³   ³       Gradle__com_google_firebase_firebase_auth_21_0_1_aar.xml
+³   ³       Gradle__com_google_firebase_firebase_auth_interop_20_0_0_aar.xml
+³   ³       Gradle__com_google_firebase_firebase_common_20_0_0_aar.xml
+³   ³       Gradle__com_google_firebase_firebase_components_17_0_0_aar.xml
+³   ³       Gradle__com_google_firebase_firebase_installations_17_0_0_aar.xml
+³   ³       Gradle__com_google_firebase_firebase_installations_interop_17_0_0_aar.xml
+³   ³       Gradle__com_google_firebase_firebase_measurement_connector_19_0_0_aar.xml
+³   ³       Gradle__com_google_guava_guava_20_0.xml
+³   ³       Gradle__com_google_http_client_google_http_client_1_26_0.xml
+³   ³       Gradle__com_google_http_client_google_http_client_android_1_26_0.xml
+³   ³       Gradle__com_google_http_client_google_http_client_gson_1_26_0.xml
+³   ³       Gradle__com_google_http_client_google_http_client_jackson2_1_26_0.xml
+³   ³       Gradle__com_google_j2objc_j2objc_annotations_1_1.xml
+³   ³       Gradle__com_google_oauth_client_google_oauth_client_1_26_0.xml
+³   ³       Gradle__com_squareup_javawriter_2_1_1.xml
+³   ³       Gradle__javax_inject_javax_inject_1.xml
+³   ³       Gradle__junit_junit_4_12.xml
+³   ³       Gradle__junit_junit_4_13_2.xml
+³   ³       Gradle__org_apache_commons_commons_collections4_4_4.xml
+³   ³       Gradle__org_apache_httpcomponents_httpclient_4_5_5.xml
+³   ³       Gradle__org_apache_httpcomponents_httpcore_4_4_9.xml
+³   ³       Gradle__org_hamcrest_hamcrest_core_1_3.xml
+³   ³       Gradle__org_hamcrest_hamcrest_integration_1_3.xml
+³   ³       Gradle__org_hamcrest_hamcrest_library_1_3.xml
+³   ³       
+³   ÀÄÄÄmodules
+³       ³   Microproject.iml
+³       ³   
+³       ÀÄÄÄapp
+³               Microproject.app.iml
+³               
+ÃÄÄÄapp
+³   ³   .gitignore
+³   ³   build.gradle
+³   ³   google-services.json
+³   ³   proguard-rules.pro
+³   ³   
+³   ÃÄÄÄbuild
+³   ³   ÃÄÄÄgenerated
+³   ³   ³   ÃÄÄÄap_generated_sources
+³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³       ÀÄÄÄout
+³   ³   ³   ÃÄÄÄres
+³   ³   ³   ³   ÃÄÄÄgoogle-services
+³   ³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³   ³       ÀÄÄÄvalues
+³   ³   ³   ³   ³               values.xml
+³   ³   ³   ³   ³               
+³   ³   ³   ³   ÃÄÄÄpngs
+³   ³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³   ³       ÃÄÄÄdrawable-anydpi-v21
+³   ³   ³   ³   ³       ³       ic_baseline_more_vert_16.xml
+³   ³   ³   ³   ³       ³       ic_baseline_more_vert_24.xml
+³   ³   ³   ³   ³       ³       ic_keyboard_arrow_down_black_24dp.xml
+³   ³   ³   ³   ³       ³       ic_keyboard_arrow_up_black_24dp.xml
+³   ³   ³   ³   ³       ³       ic_launcher_background.xml
+³   ³   ³   ³   ³       ³       logout.xml
+³   ³   ³   ³   ³       ³       
+³   ³   ³   ³   ³       ÃÄÄÄdrawable-anydpi-v24
+³   ³   ³   ³   ³       ³       ic_launcher_foreground.xml
+³   ³   ³   ³   ³       ³       
+³   ³   ³   ³   ³       ÃÄÄÄdrawable-hdpi
+³   ³   ³   ³   ³       ³       ic_baseline_more_vert_16.png
+³   ³   ³   ³   ³       ³       ic_baseline_more_vert_24.png
+³   ³   ³   ³   ³       ³       ic_keyboard_arrow_down_black_24dp.png
+³   ³   ³   ³   ³       ³       ic_keyboard_arrow_up_black_24dp.png
+³   ³   ³   ³   ³       ³       ic_launcher_background.png
+³   ³   ³   ³   ³       ³       logout.png
+³   ³   ³   ³   ³       ³       
+³   ³   ³   ³   ³       ÃÄÄÄdrawable-ldpi
+³   ³   ³   ³   ³       ³       ic_baseline_more_vert_16.png
+³   ³   ³   ³   ³       ³       ic_baseline_more_vert_24.png
+³   ³   ³   ³   ³       ³       ic_keyboard_arrow_down_black_24dp.png
+³   ³   ³   ³   ³       ³       ic_keyboard_arrow_up_black_24dp.png
+³   ³   ³   ³   ³       ³       ic_launcher_background.png
+³   ³   ³   ³   ³       ³       logout.png
+³   ³   ³   ³   ³       ³       
+³   ³   ³   ³   ³       ÃÄÄÄdrawable-mdpi
+³   ³   ³   ³   ³       ³       ic_baseline_more_vert_16.png
+³   ³   ³   ³   ³       ³       ic_baseline_more_vert_24.png
+³   ³   ³   ³   ³       ³       ic_keyboard_arrow_down_black_24dp.png
+³   ³   ³   ³   ³       ³       ic_keyboard_arrow_up_black_24dp.png
+³   ³   ³   ³   ³       ³       ic_launcher_background.png
+³   ³   ³   ³   ³       ³       logout.png
+³   ³   ³   ³   ³       ³       
+³   ³   ³   ³   ³       ÃÄÄÄdrawable-xhdpi
+³   ³   ³   ³   ³       ³       ic_baseline_more_vert_16.png
+³   ³   ³   ³   ³       ³       ic_baseline_more_vert_24.png
+³   ³   ³   ³   ³       ³       ic_keyboard_arrow_down_black_24dp.png
+³   ³   ³   ³   ³       ³       ic_keyboard_arrow_up_black_24dp.png
+³   ³   ³   ³   ³       ³       ic_launcher_background.png
+³   ³   ³   ³   ³       ³       logout.png
+³   ³   ³   ³   ³       ³       
+³   ³   ³   ³   ³       ÃÄÄÄdrawable-xxhdpi
+³   ³   ³   ³   ³       ³       ic_baseline_more_vert_16.png
+³   ³   ³   ³   ³       ³       ic_baseline_more_vert_24.png
+³   ³   ³   ³   ³       ³       ic_keyboard_arrow_down_black_24dp.png
+³   ³   ³   ³   ³       ³       ic_keyboard_arrow_up_black_24dp.png
+³   ³   ³   ³   ³       ³       ic_launcher_background.png
+³   ³   ³   ³   ³       ³       logout.png
+³   ³   ³   ³   ³       ³       
+³   ³   ³   ³   ³       ÀÄÄÄdrawable-xxxhdpi
+³   ³   ³   ³   ³               ic_baseline_more_vert_16.png
+³   ³   ³   ³   ³               ic_baseline_more_vert_24.png
+³   ³   ³   ³   ³               ic_keyboard_arrow_down_black_24dp.png
+³   ³   ³   ³   ³               ic_keyboard_arrow_up_black_24dp.png
+³   ³   ³   ³   ³               ic_launcher_background.png
+³   ³   ³   ³   ³               logout.png
+³   ³   ³   ³   ³               
+³   ³   ³   ³   ÀÄÄÄresValues
+³   ³   ³   ³       ÀÄÄÄdebug
+³   ³   ³   ÀÄÄÄsource
+³   ³   ³       ÀÄÄÄbuildConfig
+³   ³   ³           ÀÄÄÄdebug
+³   ³   ³               ÀÄÄÄorg
+³   ³   ³                   ÀÄÄÄtpoly
+³   ³   ³                       ÀÄÄÄpendingsubmissionsviewer
+³   ³   ³                               BuildConfig.java
+³   ³   ³                               
+³   ³   ÃÄÄÄintermediates
+³   ³   ³   ÃÄÄÄaar_metadata_check
+³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ÃÄÄÄannotation_processor_list
+³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³           annotationProcessors.json
+³   ³   ³   ³           
+³   ³   ³   ÃÄÄÄapp_metadata
+³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³           app-metadata.properties
+³   ³   ³   ³           
+³   ³   ³   ÃÄÄÄcompatible_screen_manifest
+³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³           output-metadata.json
+³   ³   ³   ³           
+³   ³   ³   ÃÄÄÄcompile_and_runtime_not_namespaced_r_class_jar
+³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³           R.jar
+³   ³   ³   ³           
+³   ³   ³   ÃÄÄÄcompressed_assets
+³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³       ÀÄÄÄout
+³   ³   ³   ÃÄÄÄdata_binding_layout_info_type_merge
+³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³       ÀÄÄÄout
+³   ³   ³   ÃÄÄÄdesugar_graph
+³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³       ÀÄÄÄout
+³   ³   ³   ³           ÃÄÄÄcurrentProject
+³   ³   ³   ³           ³   ÃÄÄÄdirs_bucket_0
+³   ³   ³   ³           ³   ³       graph.bin
+³   ³   ³   ³           ³   ³       
+³   ³   ³   ³           ³   ÃÄÄÄdirs_bucket_1
+³   ³   ³   ³           ³   ³       graph.bin
+³   ³   ³   ³           ³   ³       
+³   ³   ³   ³           ³   ÃÄÄÄdirs_bucket_2
+³   ³   ³   ³           ³   ³       graph.bin
+³   ³   ³   ³           ³   ³       
+³   ³   ³   ³           ³   ÃÄÄÄjar_482eabd5586a73ae7a0db3944be9c96882dceb1fa281550c3b65e7b0ad5ebb7a_bucket_0
+³   ³   ³   ³           ³   ³       graph.bin
+³   ³   ³   ³           ³   ³       
+³   ³   ³   ³           ³   ÃÄÄÄjar_482eabd5586a73ae7a0db3944be9c96882dceb1fa281550c3b65e7b0ad5ebb7a_bucket_1
+³   ³   ³   ³           ³   ³       graph.bin
+³   ³   ³   ³           ³   ³       
+³   ³   ³   ³           ³   ÀÄÄÄjar_482eabd5586a73ae7a0db3944be9c96882dceb1fa281550c3b65e7b0ad5ebb7a_bucket_2
+³   ³   ³   ³           ³           graph.bin
+³   ³   ³   ³           ³           
+³   ³   ³   ³           ÃÄÄÄexternalLibs
+³   ³   ³   ³           ÃÄÄÄmixedScopes
+³   ³   ³   ³           ÀÄÄÄotherProjects
+³   ³   ³   ÃÄÄÄdex
+³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³       ÃÄÄÄmergeDexDebug
+³   ³   ³   ³       ³       classes.dex
+³   ³   ³   ³       ³       classes2.dex
+³   ³   ³   ³       ³       classes3.dex
+³   ³   ³   ³       ³       
+³   ³   ³   ³       ÃÄÄÄmergeExtDexDebug
+³   ³   ³   ³       ³       classes.dex
+³   ³   ³   ³       ³       classes2.dex
+³   ³   ³   ³       ³       
+³   ³   ³   ³       ÃÄÄÄmergeLibDexDebug
+³   ³   ³   ³       ³   ÃÄÄÄ0
+³   ³   ³   ³       ³   ÃÄÄÄ1
+³   ³   ³   ³       ³   ÃÄÄÄ10
+³   ³   ³   ³       ³   ÃÄÄÄ11
+³   ³   ³   ³       ³   ÃÄÄÄ12
+³   ³   ³   ³       ³   ÃÄÄÄ13
+³   ³   ³   ³       ³   ÃÄÄÄ14
+³   ³   ³   ³       ³   ÃÄÄÄ15
+³   ³   ³   ³       ³   ÃÄÄÄ2
+³   ³   ³   ³       ³   ÃÄÄÄ3
+³   ³   ³   ³       ³   ÃÄÄÄ4
+³   ³   ³   ³       ³   ÃÄÄÄ5
+³   ³   ³   ³       ³   ÃÄÄÄ6
+³   ³   ³   ³       ³   ÃÄÄÄ7
+³   ³   ³   ³       ³   ÃÄÄÄ8
+³   ³   ³   ³       ³   ÀÄÄÄ9
+³   ³   ³   ³       ÀÄÄÄmergeProjectDexDebug
+³   ³   ³   ³           ÃÄÄÄ0
+³   ³   ³   ³           ³       classes.dex
+³   ³   ³   ³           ³       
+³   ³   ³   ³           ÃÄÄÄ1
+³   ³   ³   ³           ÃÄÄÄ10
+³   ³   ³   ³           ³       classes.dex
+³   ³   ³   ³           ³       
+³   ³   ³   ³           ÃÄÄÄ11
+³   ³   ³   ³           ÃÄÄÄ12
+³   ³   ³   ³           ÃÄÄÄ13
+³   ³   ³   ³           ÃÄÄÄ14
+³   ³   ³   ³           ÃÄÄÄ15
+³   ³   ³   ³           ³       classes.dex
+³   ³   ³   ³           ³       
+³   ³   ³   ³           ÃÄÄÄ2
+³   ³   ³   ³           ³       classes.dex
+³   ³   ³   ³           ³       
+³   ³   ³   ³           ÃÄÄÄ3
+³   ³   ³   ³           ÃÄÄÄ4
+³   ³   ³   ³           ÃÄÄÄ5
+³   ³   ³   ³           ÃÄÄÄ6
+³   ³   ³   ³           ÃÄÄÄ7
+³   ³   ³   ³           ÃÄÄÄ8
+³   ³   ³   ³           ÀÄÄÄ9
+³   ³   ³   ÃÄÄÄdex_archive_input_jar_hashes
+³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³           out
+³   ³   ³   ³           
+³   ³   ³   ÃÄÄÄdex_number_of_buckets_file
+³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³           out
+³   ³   ³   ³           
+³   ³   ³   ÃÄÄÄduplicate_classes_check
+³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ÃÄÄÄexternal_file_lib_dex_archives
+³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ÃÄÄÄexternal_libs_dex_archive
+³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³       ÀÄÄÄout
+³   ³   ³   ÃÄÄÄexternal_libs_dex_archive_with_artifact_transforms
+³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³       ÀÄÄÄout
+³   ³   ³   ÃÄÄÄincremental
+³   ³   ³   ³   ÃÄÄÄdebug-mergeJavaRes
+³   ³   ³   ³   ³   ³   merge-state
+³   ³   ³   ³   ³   ³   
+³   ³   ³   ³   ³   ÀÄÄÄzip-cache
+³   ³   ³   ³   ³           0ebzluXY4DtyW3XUX5zwqtvWXgA=
+³   ³   ³   ³   ³           1He4eX8PfDet6OidymSRSTsRp6w=
+³   ³   ³   ³   ³           1YQcNFMh5_DEnu_wKuIbRyYzDkg=
+³   ³   ³   ³   ³           2PNfDDedmcm7WhSv3RcUvhns12w=
+³   ³   ³   ³   ³           2wXOnprlleQgfjviLCUhTkNGCtQ=
+³   ³   ³   ³   ³           30sPnAcfGDcNf_Cxumu02UqY5Aw=
+³   ³   ³   ³   ³           34J4hr+Zwwk+EphgIO8XXMSRChQ=
+³   ³   ³   ³   ³           3el69hmMNlPQaueNvzx0IpkCo10=
+³   ³   ³   ³   ³           3mRl6F82UsQX1TF2+lE1aNqTJos=
+³   ³   ³   ³   ³           47TuFMPyhjxR9UHVhZ2I6rXbd6k=
+³   ³   ³   ³   ³           5sPpPoBap4evEI3ae2Ek_zmWnV8=
+³   ³   ³   ³   ³           6YjgNb1Rx6PH4l3ypCl0AOZMh8Q=
+³   ³   ³   ³   ³           7gtAjxonbRFPnPu2sCjlANXYehA=
+³   ³   ³   ³   ³           8UmP8uWblEBjYIUGQkjHCarZg0s=
+³   ³   ³   ³   ³           8yFO4pBU4Azwov4h494SUtL1FvE=
+³   ³   ³   ³   ³           8yxYDjaEAl5ekpOlDIyKy+Au2pU=
+³   ³   ³   ³   ³           A+VHCILwZItHGbHOm6d7dK_DT8o=
+³   ³   ³   ³   ³           adeLBwfHL6miiQ_YDUD2TfjFaIs=
+³   ³   ³   ³   ³           B9Seqc6EyrYGKIw9dvK3thMlAlA=
+³   ³   ³   ³   ³           bd4rXfY5UlLPlTeJzD3ZKY4XJkE=
+³   ³   ³   ³   ³           bFrmGH8kcHuN_Iazu0BM+zQt7O0=
+³   ³   ³   ³   ³           bfTsWR3Zum2+I9onlFn0eHJGwEg=
+³   ³   ³   ³   ³           Bi00+vTDWf9a2HFUwmUCHEnaCCQ=
+³   ³   ³   ³   ³           bNQ+LTfRTIf2ScQySQqhdKNC588=
+³   ³   ³   ³   ³           bzu9gMc2AcHdo3tVODoiXovkxOo=
+³   ³   ³   ³   ³           Cb0x4cEzAJEBIlVonzcQ8g5a0lc=
+³   ³   ³   ³   ³           cMtYEexFIWFCOvx0Mf4fPcM3LIQ=
+³   ³   ³   ³   ³           CWfizKPHNhhk0_YnQCoMSbnjwSI=
+³   ³   ³   ³   ³           dUd_fJwX1tdqjpJId0U7sSa14zc=
+³   ³   ³   ³   ³           ECaJxFbG7SfkpoVz8dHdZnSW8OQ=
+³   ³   ³   ³   ³           el8GNBOThkgFoMetMSg4YG63RKI=
+³   ³   ³   ³   ³           eNQbvJm6KQREhZgvu6a+Y0kfuTc=
+³   ³   ³   ³   ³           EYDcXLNFfx4hj8d8VHFPXGtcmP4=
+³   ³   ³   ³   ³           FITpvx4jh+uBCp179fSX7WoO1JY=
+³   ³   ³   ³   ³           FRi6FbFaSxlWIBl3YLhOYFgBu6E=
+³   ³   ³   ³   ³           fSNqkwdoG9RX4Pb_01xZ_Nl+HSc=
+³   ³   ³   ³   ³           gGFTA2SRMThs0iYJkv6jMasRQgQ=
+³   ³   ³   ³   ³           GjkPn8euiUHBZiqRcFGaBTT1tUw=
+³   ³   ³   ³   ³           GJm0eLp91FCmg+lLTxaqF84kngw=
+³   ³   ³   ³   ³           hbi6ITt87sJovn6macYaGJeRNBg=
+³   ³   ³   ³   ³           HcPZEZRUKHp7oSeI_0zaQTyvAxc=
+³   ³   ³   ³   ³           hYDESzGL_56dy894UcC3TXtQ_do=
+³   ³   ³   ³   ³           IcCHRw6gFasKNCEnYJ_qvolHIlQ=
+³   ³   ³   ³   ³           imP2k8FrvB0CY1qOS8nn482qZq4=
+³   ³   ³   ³   ³           J+Ow2JlZZO+diU+9xm99sbWhMhs=
+³   ³   ³   ³   ³           j0uPQqcD_zx0VfiXZIwvbDnW9sc=
+³   ³   ³   ³   ³           j1cVYpg3jDlUDcizuN1LE+Q5BMg=
+³   ³   ³   ³   ³           JhQd8yuULrmZdJWHr7gDXlN5FZQ=
+³   ³   ³   ³   ³           jMAub11eMLwEniu+GsOuuLk1D9Y=
+³   ³   ³   ³   ³           JuqMQ8UO67Z9l8qce_517IeHV7c=
+³   ³   ³   ³   ³           ksqsFiruyW8ENzbRdyvaml3cqKE=
+³   ³   ³   ³   ³           L6b9+Izx4lKI5Pm0tXmhYpHb_hE=
+³   ³   ³   ³   ³           l_UV1zvahXi+8VJXerG_M4HlHWQ=
+³   ³   ³   ³   ³           MBiEuG_Y2NgGPAjqPTJTtGsb7Ks=
+³   ³   ³   ³   ³           mG7UrmJvRiE1opFYJzSk_aOqDf0=
+³   ³   ³   ³   ³           MgSxOzV_ExLMrmyW003Z0VtQJmA=
+³   ³   ³   ³   ³           mK1Ngvm1WYKkEKJb3FDiQbDGxNw=
+³   ³   ³   ³   ³           MLcqOaN2Klw9CX0PKdkoa6FymG4=
+³   ³   ³   ³   ³           MLH2Wr1BzDjqPVVbGpf1H9M+ooE=
+³   ³   ³   ³   ³           n62MUdv678laYFj1wTQPor8+xkI=
+³   ³   ³   ³   ³           nHPWfcP3FAG7wcxT7fDuCPNZ070=
+³   ³   ³   ³   ³           nKwUCyCn8QKQceiqptfwnsqyWmQ=
+³   ³   ³   ³   ³           O3LUCHL8X2Fu_crZM6v5f+Xy8e0=
+³   ³   ³   ³   ³           o9Lt12QKvZR1S7I72FaXAb1Gnno=
+³   ³   ³   ³   ³           OheR0LhF2GY05hK_E4fkp8SRMzw=
+³   ³   ³   ³   ³           orTa9b0c8_xE4NuaxL4geCrKG3w=
+³   ³   ³   ³   ³           PHzH2+7Eprco1+M_tG56xQpELuQ=
+³   ³   ³   ³   ³           QzmeYA0UAdi1Rs56xjQJ6SdWDrE=
+³   ³   ³   ³   ³           R5_mq4P1chi1R5k0LFM0x2DUF9Q=
+³   ³   ³   ³   ³           rapa94hq8tCs1TnOqyOIbIHXP_4=
+³   ³   ³   ³   ³           rdZbQ4AKRbRU5ZaiCb3G8DAdQVE=
+³   ³   ³   ³   ³           rJoQqfA8LP9WGEAzDdUFtaT_6fM=
+³   ³   ³   ³   ³           rsEsiUB+V9rXm+rkt4wnX02bUIA=
+³   ³   ³   ³   ³           SP85YvBPw+jNLSinYNYk_EO0X4E=
+³   ³   ³   ³   ³           t6W6JU5W8PaudVgH4Zx+VGxGqD0=
+³   ³   ³   ³   ³           Teh7k+UIu9CoQqud8RvH_F_jW_w=
+³   ³   ³   ³   ³           TlQO8mnwxdI5NDhzEdm8y1ymRSE=
+³   ³   ³   ³   ³           TOV_t9QNAeqIDqpGpIlzlF9a8b4=
+³   ³   ³   ³   ³           UAi60y3it0Vl5DyPvg+HuPLPpn0=
+³   ³   ³   ³   ³           UduM1Lp1gsdRUUvN+YDuXNHLt0s=
+³   ³   ³   ³   ³           uFDmoMpu6htKXIACq6ukjLy7548=
+³   ³   ³   ³   ³           Uy3TWUHNbWS5yGzRDcijPgUDtXc=
+³   ³   ³   ³   ³           vhpWxojY0rHKLv9fhNjyUd9zZ00=
+³   ³   ³   ³   ³           VXWGaANzwXkJEpEA7IO0AnsK2WU=
+³   ³   ³   ³   ³           vYVG0sfhoabbwF78dh3w9a31JMY=
+³   ³   ³   ³   ³           wPv71HPgql+857KZO+PIpuXvW7g=
+³   ³   ³   ³   ³           xBZRT8E9ITq1xkUE2jQK8yDu_f8=
+³   ³   ³   ³   ³           xhWdr6XFK0nQvBmcwombRnx47hI=
+³   ³   ³   ³   ³           Xjj2VoQv2OK2Q9QQ8sKhmDAFM8Y=
+³   ³   ³   ³   ³           XkEMWX4ufPoR71znJu7GOXTRLd4=
+³   ³   ³   ³   ³           xzEh6xR9tGLTioEYaFcbW+R357w=
+³   ³   ³   ³   ³           yoI0k9Ae+LGTkR9tZKoUv2PR7cc=
+³   ³   ³   ³   ³           Z9zyvC1M5PWESd+RPs1rQr4CoJ0=
+³   ³   ³   ³   ³           zes_+vKkLuUrsyvtNZbLK0RZAIU=
+³   ³   ³   ³   ³           ZMS1mk+H5aVO7HXJdmXuw44VLYc=
+³   ³   ³   ³   ³           ZrX5kKFGOKdbDRvK5RIR2N903Vs=
+³   ³   ³   ³   ³           zSOsXaUK2G+OwftsPK_20audJQQ=
+³   ³   ³   ³   ³           _2X8cs443hhuw_HG3n8eAlTf3jc=
+³   ³   ³   ³   ³           _k149pzGT1swPDDkIOdet0eqcNU=
+³   ³   ³   ³   ³           
+³   ³   ³   ³   ÃÄÄÄdebug-mergeNativeLibs
+³   ³   ³   ³   ³   ³   merge-state
+³   ³   ³   ³   ³   ³   
+³   ³   ³   ³   ³   ÀÄÄÄzip-cache
+³   ³   ³   ³   ³           0ebzluXY4DtyW3XUX5zwqtvWXgA=
+³   ³   ³   ³   ³           1He4eX8PfDet6OidymSRSTsRp6w=
+³   ³   ³   ³   ³           1YQcNFMh5_DEnu_wKuIbRyYzDkg=
+³   ³   ³   ³   ³           2PNfDDedmcm7WhSv3RcUvhns12w=
+³   ³   ³   ³   ³           2wXOnprlleQgfjviLCUhTkNGCtQ=
+³   ³   ³   ³   ³           30sPnAcfGDcNf_Cxumu02UqY5Aw=
+³   ³   ³   ³   ³           34J4hr+Zwwk+EphgIO8XXMSRChQ=
+³   ³   ³   ³   ³           3el69hmMNlPQaueNvzx0IpkCo10=
+³   ³   ³   ³   ³           3mRl6F82UsQX1TF2+lE1aNqTJos=
+³   ³   ³   ³   ³           47TuFMPyhjxR9UHVhZ2I6rXbd6k=
+³   ³   ³   ³   ³           5sPpPoBap4evEI3ae2Ek_zmWnV8=
+³   ³   ³   ³   ³           6YjgNb1Rx6PH4l3ypCl0AOZMh8Q=
+³   ³   ³   ³   ³           7gtAjxonbRFPnPu2sCjlANXYehA=
+³   ³   ³   ³   ³           8UmP8uWblEBjYIUGQkjHCarZg0s=
+³   ³   ³   ³   ³           8yFO4pBU4Azwov4h494SUtL1FvE=
+³   ³   ³   ³   ³           8yxYDjaEAl5ekpOlDIyKy+Au2pU=
+³   ³   ³   ³   ³           A+VHCILwZItHGbHOm6d7dK_DT8o=
+³   ³   ³   ³   ³           adeLBwfHL6miiQ_YDUD2TfjFaIs=
+³   ³   ³   ³   ³           B9Seqc6EyrYGKIw9dvK3thMlAlA=
+³   ³   ³   ³   ³           bd4rXfY5UlLPlTeJzD3ZKY4XJkE=
+³   ³   ³   ³   ³           bFrmGH8kcHuN_Iazu0BM+zQt7O0=
+³   ³   ³   ³   ³           bfTsWR3Zum2+I9onlFn0eHJGwEg=
+³   ³   ³   ³   ³           Bi00+vTDWf9a2HFUwmUCHEnaCCQ=
+³   ³   ³   ³   ³           bNQ+LTfRTIf2ScQySQqhdKNC588=
+³   ³   ³   ³   ³           bzu9gMc2AcHdo3tVODoiXovkxOo=
+³   ³   ³   ³   ³           Cb0x4cEzAJEBIlVonzcQ8g5a0lc=
+³   ³   ³   ³   ³           cMtYEexFIWFCOvx0Mf4fPcM3LIQ=
+³   ³   ³   ³   ³           CWfizKPHNhhk0_YnQCoMSbnjwSI=
+³   ³   ³   ³   ³           dUd_fJwX1tdqjpJId0U7sSa14zc=
+³   ³   ³   ³   ³           ECaJxFbG7SfkpoVz8dHdZnSW8OQ=
+³   ³   ³   ³   ³           el8GNBOThkgFoMetMSg4YG63RKI=
+³   ³   ³   ³   ³           eNQbvJm6KQREhZgvu6a+Y0kfuTc=
+³   ³   ³   ³   ³           EYDcXLNFfx4hj8d8VHFPXGtcmP4=
+³   ³   ³   ³   ³           FITpvx4jh+uBCp179fSX7WoO1JY=
+³   ³   ³   ³   ³           FRi6FbFaSxlWIBl3YLhOYFgBu6E=
+³   ³   ³   ³   ³           fSNqkwdoG9RX4Pb_01xZ_Nl+HSc=
+³   ³   ³   ³   ³           gGFTA2SRMThs0iYJkv6jMasRQgQ=
+³   ³   ³   ³   ³           GjkPn8euiUHBZiqRcFGaBTT1tUw=
+³   ³   ³   ³   ³           GJm0eLp91FCmg+lLTxaqF84kngw=
+³   ³   ³   ³   ³           hbi6ITt87sJovn6macYaGJeRNBg=
+³   ³   ³   ³   ³           HcPZEZRUKHp7oSeI_0zaQTyvAxc=
+³   ³   ³   ³   ³           hYDESzGL_56dy894UcC3TXtQ_do=
+³   ³   ³   ³   ³           IcCHRw6gFasKNCEnYJ_qvolHIlQ=
+³   ³   ³   ³   ³           imP2k8FrvB0CY1qOS8nn482qZq4=
+³   ³   ³   ³   ³           J+Ow2JlZZO+diU+9xm99sbWhMhs=
+³   ³   ³   ³   ³           j0uPQqcD_zx0VfiXZIwvbDnW9sc=
+³   ³   ³   ³   ³           j1cVYpg3jDlUDcizuN1LE+Q5BMg=
+³   ³   ³   ³   ³           JhQd8yuULrmZdJWHr7gDXlN5FZQ=
+³   ³   ³   ³   ³           jMAub11eMLwEniu+GsOuuLk1D9Y=
+³   ³   ³   ³   ³           JuqMQ8UO67Z9l8qce_517IeHV7c=
+³   ³   ³   ³   ³           ksqsFiruyW8ENzbRdyvaml3cqKE=
+³   ³   ³   ³   ³           L6b9+Izx4lKI5Pm0tXmhYpHb_hE=
+³   ³   ³   ³   ³           l_UV1zvahXi+8VJXerG_M4HlHWQ=
+³   ³   ³   ³   ³           MBiEuG_Y2NgGPAjqPTJTtGsb7Ks=
+³   ³   ³   ³   ³           mG7UrmJvRiE1opFYJzSk_aOqDf0=
+³   ³   ³   ³   ³           MgSxOzV_ExLMrmyW003Z0VtQJmA=
+³   ³   ³   ³   ³           mK1Ngvm1WYKkEKJb3FDiQbDGxNw=
+³   ³   ³   ³   ³           MLcqOaN2Klw9CX0PKdkoa6FymG4=
+³   ³   ³   ³   ³           MLH2Wr1BzDjqPVVbGpf1H9M+ooE=
+³   ³   ³   ³   ³           n62MUdv678laYFj1wTQPor8+xkI=
+³   ³   ³   ³   ³           nHPWfcP3FAG7wcxT7fDuCPNZ070=
+³   ³   ³   ³   ³           nKwUCyCn8QKQceiqptfwnsqyWmQ=
+³   ³   ³   ³   ³           O3LUCHL8X2Fu_crZM6v5f+Xy8e0=
+³   ³   ³   ³   ³           o9Lt12QKvZR1S7I72FaXAb1Gnno=
+³   ³   ³   ³   ³           OheR0LhF2GY05hK_E4fkp8SRMzw=
+³   ³   ³   ³   ³           orTa9b0c8_xE4NuaxL4geCrKG3w=
+³   ³   ³   ³   ³           PHzH2+7Eprco1+M_tG56xQpELuQ=
+³   ³   ³   ³   ³           QzmeYA0UAdi1Rs56xjQJ6SdWDrE=
+³   ³   ³   ³   ³           R5_mq4P1chi1R5k0LFM0x2DUF9Q=
+³   ³   ³   ³   ³           rapa94hq8tCs1TnOqyOIbIHXP_4=
+³   ³   ³   ³   ³           rdZbQ4AKRbRU5ZaiCb3G8DAdQVE=
+³   ³   ³   ³   ³           rJoQqfA8LP9WGEAzDdUFtaT_6fM=
+³   ³   ³   ³   ³           rsEsiUB+V9rXm+rkt4wnX02bUIA=
+³   ³   ³   ³   ³           SP85YvBPw+jNLSinYNYk_EO0X4E=
+³   ³   ³   ³   ³           t6W6JU5W8PaudVgH4Zx+VGxGqD0=
+³   ³   ³   ³   ³           Teh7k+UIu9CoQqud8RvH_F_jW_w=
+³   ³   ³   ³   ³           TlQO8mnwxdI5NDhzEdm8y1ymRSE=
+³   ³   ³   ³   ³           TOV_t9QNAeqIDqpGpIlzlF9a8b4=
+³   ³   ³   ³   ³           UAi60y3it0Vl5DyPvg+HuPLPpn0=
+³   ³   ³   ³   ³           UduM1Lp1gsdRUUvN+YDuXNHLt0s=
+³   ³   ³   ³   ³           uFDmoMpu6htKXIACq6ukjLy7548=
+³   ³   ³   ³   ³           Uy3TWUHNbWS5yGzRDcijPgUDtXc=
+³   ³   ³   ³   ³           vhpWxojY0rHKLv9fhNjyUd9zZ00=
+³   ³   ³   ³   ³           VXWGaANzwXkJEpEA7IO0AnsK2WU=
+³   ³   ³   ³   ³           vYVG0sfhoabbwF78dh3w9a31JMY=
+³   ³   ³   ³   ³           wPv71HPgql+857KZO+PIpuXvW7g=
+³   ³   ³   ³   ³           xBZRT8E9ITq1xkUE2jQK8yDu_f8=
+³   ³   ³   ³   ³           xhWdr6XFK0nQvBmcwombRnx47hI=
+³   ³   ³   ³   ³           Xjj2VoQv2OK2Q9QQ8sKhmDAFM8Y=
+³   ³   ³   ³   ³           XkEMWX4ufPoR71znJu7GOXTRLd4=
+³   ³   ³   ³   ³           xzEh6xR9tGLTioEYaFcbW+R357w=
+³   ³   ³   ³   ³           yoI0k9Ae+LGTkR9tZKoUv2PR7cc=
+³   ³   ³   ³   ³           Z9zyvC1M5PWESd+RPs1rQr4CoJ0=
+³   ³   ³   ³   ³           zes_+vKkLuUrsyvtNZbLK0RZAIU=
+³   ³   ³   ³   ³           ZMS1mk+H5aVO7HXJdmXuw44VLYc=
+³   ³   ³   ³   ³           ZrX5kKFGOKdbDRvK5RIR2N903Vs=
+³   ³   ³   ³   ³           zSOsXaUK2G+OwftsPK_20audJQQ=
+³   ³   ³   ³   ³           _2X8cs443hhuw_HG3n8eAlTf3jc=
+³   ³   ³   ³   ³           _k149pzGT1swPDDkIOdet0eqcNU=
+³   ³   ³   ³   ³           
+³   ³   ³   ³   ÃÄÄÄmergeDebugAssets
+³   ³   ³   ³   ³       merger.xml
+³   ³   ³   ³   ³       
+³   ³   ³   ³   ÃÄÄÄmergeDebugJniLibFolders
+³   ³   ³   ³   ³       merger.xml
+³   ³   ³   ³   ³       
+³   ³   ³   ³   ÃÄÄÄmergeDebugResources
+³   ³   ³   ³   ³   ³   compile-file-map.properties
+³   ³   ³   ³   ³   ³   merger.xml
+³   ³   ³   ³   ³   ³   
+³   ³   ³   ³   ³   ÃÄÄÄmerged.dir
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues
+³   ³   ³   ³   ³   ³   ³       values.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-af
+³   ³   ³   ³   ³   ³   ³       values-af.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-am
+³   ³   ³   ³   ³   ³   ³       values-am.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-ar
+³   ³   ³   ³   ³   ³   ³       values-ar.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-as
+³   ³   ³   ³   ³   ³   ³       values-as.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-az
+³   ³   ³   ³   ³   ³   ³       values-az.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-b+es+419
+³   ³   ³   ³   ³   ³   ³       values-b+es+419.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-b+sr+Latn
+³   ³   ³   ³   ³   ³   ³       values-b+sr+Latn.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-be
+³   ³   ³   ³   ³   ³   ³       values-be.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-bg
+³   ³   ³   ³   ³   ³   ³       values-bg.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-bn
+³   ³   ³   ³   ³   ³   ³       values-bn.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-bs
+³   ³   ³   ³   ³   ³   ³       values-bs.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-ca
+³   ³   ³   ³   ³   ³   ³       values-ca.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-cs
+³   ³   ³   ³   ³   ³   ³       values-cs.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-da
+³   ³   ³   ³   ³   ³   ³       values-da.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-de
+³   ³   ³   ³   ³   ³   ³       values-de.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-el
+³   ³   ³   ³   ³   ³   ³       values-el.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-en-rAU
+³   ³   ³   ³   ³   ³   ³       values-en-rAU.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-en-rCA
+³   ³   ³   ³   ³   ³   ³       values-en-rCA.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-en-rGB
+³   ³   ³   ³   ³   ³   ³       values-en-rGB.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-en-rIN
+³   ³   ³   ³   ³   ³   ³       values-en-rIN.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-en-rXC
+³   ³   ³   ³   ³   ³   ³       values-en-rXC.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-es
+³   ³   ³   ³   ³   ³   ³       values-es.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-es-rUS
+³   ³   ³   ³   ³   ³   ³       values-es-rUS.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-et
+³   ³   ³   ³   ³   ³   ³       values-et.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-eu
+³   ³   ³   ³   ³   ³   ³       values-eu.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-fa
+³   ³   ³   ³   ³   ³   ³       values-fa.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-fi
+³   ³   ³   ³   ³   ³   ³       values-fi.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-fr
+³   ³   ³   ³   ³   ³   ³       values-fr.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-fr-rCA
+³   ³   ³   ³   ³   ³   ³       values-fr-rCA.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-gl
+³   ³   ³   ³   ³   ³   ³       values-gl.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-gu
+³   ³   ³   ³   ³   ³   ³       values-gu.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-h320dp-port-v13
+³   ³   ³   ³   ³   ³   ³       values-h320dp-port-v13.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-h360dp-land-v13
+³   ³   ³   ³   ³   ³   ³       values-h360dp-land-v13.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-h480dp-land-v13
+³   ³   ³   ³   ³   ³   ³       values-h480dp-land-v13.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-h550dp-port-v13
+³   ³   ³   ³   ³   ³   ³       values-h550dp-port-v13.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-h600dp-port-v13
+³   ³   ³   ³   ³   ³   ³       values-h600dp-port-v13.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-h720dp-v13
+³   ³   ³   ³   ³   ³   ³       values-h720dp-v13.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-hdpi-v4
+³   ³   ³   ³   ³   ³   ³       values-hdpi-v4.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-hi
+³   ³   ³   ³   ³   ³   ³       values-hi.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-hr
+³   ³   ³   ³   ³   ³   ³       values-hr.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-hu
+³   ³   ³   ³   ³   ³   ³       values-hu.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-hy
+³   ³   ³   ³   ³   ³   ³       values-hy.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-in
+³   ³   ³   ³   ³   ³   ³       values-in.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-is
+³   ³   ³   ³   ³   ³   ³       values-is.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-it
+³   ³   ³   ³   ³   ³   ³       values-it.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-iw
+³   ³   ³   ³   ³   ³   ³       values-iw.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-ja
+³   ³   ³   ³   ³   ³   ³       values-ja.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-ka
+³   ³   ³   ³   ³   ³   ³       values-ka.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-kk
+³   ³   ³   ³   ³   ³   ³       values-kk.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-km
+³   ³   ³   ³   ³   ³   ³       values-km.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-kn
+³   ³   ³   ³   ³   ³   ³       values-kn.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-ko
+³   ³   ³   ³   ³   ³   ³       values-ko.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-ky
+³   ³   ³   ³   ³   ³   ³       values-ky.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-land
+³   ³   ³   ³   ³   ³   ³       values-land.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-large-v4
+³   ³   ³   ³   ³   ³   ³       values-large-v4.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-ldltr-v21
+³   ³   ³   ³   ³   ³   ³       values-ldltr-v21.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-ldrtl-v17
+³   ³   ³   ³   ³   ³   ³       values-ldrtl-v17.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-lo
+³   ³   ³   ³   ³   ³   ³       values-lo.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-lt
+³   ³   ³   ³   ³   ³   ³       values-lt.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-lv
+³   ³   ³   ³   ³   ³   ³       values-lv.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-mk
+³   ³   ³   ³   ³   ³   ³       values-mk.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-ml
+³   ³   ³   ³   ³   ³   ³       values-ml.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-mn
+³   ³   ³   ³   ³   ³   ³       values-mn.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-mr
+³   ³   ³   ³   ³   ³   ³       values-mr.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-ms
+³   ³   ³   ³   ³   ³   ³       values-ms.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-my
+³   ³   ³   ³   ³   ³   ³       values-my.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-nb
+³   ³   ³   ³   ³   ³   ³       values-nb.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-ne
+³   ³   ³   ³   ³   ³   ³       values-ne.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-night-v8
+³   ³   ³   ³   ³   ³   ³       values-night-v8.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-nl
+³   ³   ³   ³   ³   ³   ³       values-nl.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-or
+³   ³   ³   ³   ³   ³   ³       values-or.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-pa
+³   ³   ³   ³   ³   ³   ³       values-pa.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-pl
+³   ³   ³   ³   ³   ³   ³       values-pl.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-port
+³   ³   ³   ³   ³   ³   ³       values-port.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-pt
+³   ³   ³   ³   ³   ³   ³       values-pt.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-pt-rBR
+³   ³   ³   ³   ³   ³   ³       values-pt-rBR.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-pt-rPT
+³   ³   ³   ³   ³   ³   ³       values-pt-rPT.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-ro
+³   ³   ³   ³   ³   ³   ³       values-ro.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-ru
+³   ³   ³   ³   ³   ³   ³       values-ru.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-si
+³   ³   ³   ³   ³   ³   ³       values-si.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-sk
+³   ³   ³   ³   ³   ³   ³       values-sk.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-sl
+³   ³   ³   ³   ³   ³   ³       values-sl.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-small-v4
+³   ³   ³   ³   ³   ³   ³       values-small-v4.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-sq
+³   ³   ³   ³   ³   ³   ³       values-sq.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-sr
+³   ³   ³   ³   ³   ³   ³       values-sr.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-sv
+³   ³   ³   ³   ³   ³   ³       values-sv.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-sw
+³   ³   ³   ³   ³   ³   ³       values-sw.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-sw600dp-v13
+³   ³   ³   ³   ³   ³   ³       values-sw600dp-v13.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-ta
+³   ³   ³   ³   ³   ³   ³       values-ta.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-te
+³   ³   ³   ³   ³   ³   ³       values-te.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-th
+³   ³   ³   ³   ³   ³   ³       values-th.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-tl
+³   ³   ³   ³   ³   ³   ³       values-tl.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-tr
+³   ³   ³   ³   ³   ³   ³       values-tr.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-uk
+³   ³   ³   ³   ³   ³   ³       values-uk.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-ur
+³   ³   ³   ³   ³   ³   ³       values-ur.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-uz
+³   ³   ³   ³   ³   ³   ³       values-uz.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-v16
+³   ³   ³   ³   ³   ³   ³       values-v16.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-v17
+³   ³   ³   ³   ³   ³   ³       values-v17.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-v18
+³   ³   ³   ³   ³   ³   ³       values-v18.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-v21
+³   ³   ³   ³   ³   ³   ³       values-v21.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-v22
+³   ³   ³   ³   ³   ³   ³       values-v22.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-v23
+³   ³   ³   ³   ³   ³   ³       values-v23.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-v24
+³   ³   ³   ³   ³   ³   ³       values-v24.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-v25
+³   ³   ³   ³   ³   ³   ³       values-v25.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-v26
+³   ³   ³   ³   ³   ³   ³       values-v26.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-v28
+³   ³   ³   ³   ³   ³   ³       values-v28.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-vi
+³   ³   ³   ³   ³   ³   ³       values-vi.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-w320dp-land-v13
+³   ³   ³   ³   ³   ³   ³       values-w320dp-land-v13.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-w360dp-port-v13
+³   ³   ³   ³   ³   ³   ³       values-w360dp-port-v13.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-w480dp-port-v13
+³   ³   ³   ³   ³   ³   ³       values-w480dp-port-v13.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-w550dp-land-v13
+³   ³   ³   ³   ³   ³   ³       values-w550dp-land-v13.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-w600dp-land-v13
+³   ³   ³   ³   ³   ³   ³       values-w600dp-land-v13.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-watch-v20
+³   ³   ³   ³   ³   ³   ³       values-watch-v20.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-watch-v21
+³   ³   ³   ³   ³   ³   ³       values-watch-v21.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-xlarge-v4
+³   ³   ³   ³   ³   ³   ³       values-xlarge-v4.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-zh-rCN
+³   ³   ³   ³   ³   ³   ³       values-zh-rCN.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-zh-rHK
+³   ³   ³   ³   ³   ³   ³       values-zh-rHK.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-zh-rTW
+³   ³   ³   ³   ³   ³   ³       values-zh-rTW.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÀÄÄÄvalues-zu
+³   ³   ³   ³   ³   ³           values-zu.xml
+³   ³   ³   ³   ³   ³           
+³   ³   ³   ³   ³   ÀÄÄÄstripped.dir
+³   ³   ³   ³   ÃÄÄÄmergeDebugShaders
+³   ³   ³   ³   ³       merger.xml
+³   ³   ³   ³   ³       
+³   ³   ³   ³   ÃÄÄÄpackageDebug
+³   ³   ³   ³   ³   ÀÄÄÄtmp
+³   ³   ³   ³   ³       ÀÄÄÄdebug
+³   ³   ³   ³   ³           ³   dex-renamer-state.txt
+³   ³   ³   ³   ³           ³   
+³   ³   ³   ³   ³           ÀÄÄÄzip-cache
+³   ³   ³   ³   ³                   androidResources
+³   ³   ³   ³   ³                   javaResources0
+³   ³   ³   ³   ³                   
+³   ³   ³   ³   ÀÄÄÄprocessDebugResources
+³   ³   ³   ÃÄÄÄjavac
+³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³       ÀÄÄÄclasses
+³   ³   ³   ³           ÀÄÄÄorg
+³   ³   ³   ³               ÀÄÄÄtpoly
+³   ³   ³   ³                   ÀÄÄÄpendingsubmissionsviewer
+³   ³   ³   ³                       ³   BuildConfig.class
+³   ³   ³   ³                       ³   ClassroomServiceHelper$1.class
+³   ³   ³   ³                       ³   ClassroomServiceHelper$2.class
+³   ³   ³   ³                       ³   ClassroomServiceHelper$3.class
+³   ³   ³   ³                       ³   ClassroomServiceHelper.class
+³   ³   ³   ³                       ³   
+³   ³   ³   ³                       ÃÄÄÄactivities
+³   ³   ³   ³                       ³       CoursesViewer$1.class
+³   ³   ³   ³                       ³       CoursesViewer$2.class
+³   ³   ³   ³                       ³       CoursesViewer$3.class
+³   ³   ³   ³                       ³       CoursesViewer.class
+³   ³   ³   ³                       ³       LoginActivity$1.class
+³   ³   ³   ³                       ³       LoginActivity$2.class
+³   ³   ³   ³                       ³       LoginActivity$3.class
+³   ³   ³   ³                       ³       LoginActivity$4.class
+³   ³   ³   ³                       ³       LoginActivity$5.class
+³   ³   ³   ³                       ³       LoginActivity.class
+³   ³   ³   ³                       ³       MainActivity$1.class
+³   ³   ³   ³                       ³       MainActivity$2.class
+³   ³   ³   ³                       ³       MainActivity.class
+³   ³   ³   ³                       ³       SubmissionsViewer.class
+³   ³   ³   ³                       ³       
+³   ³   ³   ³                       ÃÄÄÄadapter
+³   ³   ³   ³                       ³       AssignmentAdapter$ViewHolder$1$1.class
+³   ³   ³   ³                       ³       AssignmentAdapter$ViewHolder$1.class
+³   ³   ³   ³                       ³       AssignmentAdapter$ViewHolder$2.class
+³   ³   ³   ³                       ³       AssignmentAdapter$ViewHolder$3.class
+³   ³   ³   ³                       ³       AssignmentAdapter$ViewHolder.class
+³   ³   ³   ³                       ³       AssignmentAdapter.class
+³   ³   ³   ³                       ³       AssignmentPagerAdapter.class
+³   ³   ³   ³                       ³       CourseAdapter$ViewHolder.class
+³   ³   ³   ³                       ³       CourseAdapter.class
+³   ³   ³   ³                       ³       
+³   ³   ³   ³                       ÀÄÄÄfragments
+³   ³   ³   ³                               SubmissionFragment.class
+³   ³   ³   ³                               
+³   ³   ³   ÃÄÄÄlegacy_multidex_aapt_derived_proguard_rules
+³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³           manifest_keep.txt
+³   ³   ³   ³           
+³   ³   ³   ÃÄÄÄlegacy_multidex_main_dex_list
+³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³           mainDexList.txt
+³   ³   ³   ³           
+³   ³   ³   ÃÄÄÄmanifest_merge_blame_file
+³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³           manifest-merger-blame-debug-report.txt
+³   ³   ³   ³           
+³   ³   ³   ÃÄÄÄmerged_assets
+³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³       ÀÄÄÄout
+³   ³   ³   ÃÄÄÄmerged_java_res
+³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³           out.jar
+³   ³   ³   ³           
+³   ³   ³   ÃÄÄÄmerged_jni_libs
+³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³       ÀÄÄÄout
+³   ³   ³   ÃÄÄÄmerged_manifest
+³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³           AndroidManifest.xml
+³   ³   ³   ³           
+³   ³   ³   ÃÄÄÄmerged_manifests
+³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³           AndroidManifest.xml
+³   ³   ³   ³           output-metadata.json
+³   ³   ³   ³           
+³   ³   ³   ÃÄÄÄmerged_native_libs
+³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³       ÀÄÄÄout
+³   ³   ³   ÃÄÄÄmerged_res_blame_folder
+³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³       ÀÄÄÄout
+³   ³   ³   ³           ÃÄÄÄmulti-v2
+³   ³   ³   ³           ³       debug.json
+³   ³   ³   ³           ³       values-af.json
+³   ³   ³   ³           ³       values-am.json
+³   ³   ³   ³           ³       values-ar.json
+³   ³   ³   ³           ³       values-as.json
+³   ³   ³   ³           ³       values-az.json
+³   ³   ³   ³           ³       values-b+es+419.json
+³   ³   ³   ³           ³       values-b+sr+Latn.json
+³   ³   ³   ³           ³       values-be.json
+³   ³   ³   ³           ³       values-bg.json
+³   ³   ³   ³           ³       values-bn.json
+³   ³   ³   ³           ³       values-bs.json
+³   ³   ³   ³           ³       values-ca.json
+³   ³   ³   ³           ³       values-cs.json
+³   ³   ³   ³           ³       values-da.json
+³   ³   ³   ³           ³       values-de.json
+³   ³   ³   ³           ³       values-el.json
+³   ³   ³   ³           ³       values-en-rAU.json
+³   ³   ³   ³           ³       values-en-rCA.json
+³   ³   ³   ³           ³       values-en-rGB.json
+³   ³   ³   ³           ³       values-en-rIN.json
+³   ³   ³   ³           ³       values-en-rXC.json
+³   ³   ³   ³           ³       values-es-rUS.json
+³   ³   ³   ³           ³       values-es.json
+³   ³   ³   ³           ³       values-et.json
+³   ³   ³   ³           ³       values-eu.json
+³   ³   ³   ³           ³       values-fa.json
+³   ³   ³   ³           ³       values-fi.json
+³   ³   ³   ³           ³       values-fr-rCA.json
+³   ³   ³   ³           ³       values-fr.json
+³   ³   ³   ³           ³       values-gl.json
+³   ³   ³   ³           ³       values-gu.json
+³   ³   ³   ³           ³       values-h320dp-port-v13.json
+³   ³   ³   ³           ³       values-h360dp-land-v13.json
+³   ³   ³   ³           ³       values-h480dp-land-v13.json
+³   ³   ³   ³           ³       values-h550dp-port-v13.json
+³   ³   ³   ³           ³       values-h600dp-port-v13.json
+³   ³   ³   ³           ³       values-h720dp-v13.json
+³   ³   ³   ³           ³       values-hdpi-v4.json
+³   ³   ³   ³           ³       values-hi.json
+³   ³   ³   ³           ³       values-hr.json
+³   ³   ³   ³           ³       values-hu.json
+³   ³   ³   ³           ³       values-hy.json
+³   ³   ³   ³           ³       values-in.json
+³   ³   ³   ³           ³       values-is.json
+³   ³   ³   ³           ³       values-it.json
+³   ³   ³   ³           ³       values-iw.json
+³   ³   ³   ³           ³       values-ja.json
+³   ³   ³   ³           ³       values-ka.json
+³   ³   ³   ³           ³       values-kk.json
+³   ³   ³   ³           ³       values-km.json
+³   ³   ³   ³           ³       values-kn.json
+³   ³   ³   ³           ³       values-ko.json
+³   ³   ³   ³           ³       values-ky.json
+³   ³   ³   ³           ³       values-land.json
+³   ³   ³   ³           ³       values-large-v4.json
+³   ³   ³   ³           ³       values-ldltr-v21.json
+³   ³   ³   ³           ³       values-ldrtl-v17.json
+³   ³   ³   ³           ³       values-lo.json
+³   ³   ³   ³           ³       values-lt.json
+³   ³   ³   ³           ³       values-lv.json
+³   ³   ³   ³           ³       values-mk.json
+³   ³   ³   ³           ³       values-ml.json
+³   ³   ³   ³           ³       values-mn.json
+³   ³   ³   ³           ³       values-mr.json
+³   ³   ³   ³           ³       values-ms.json
+³   ³   ³   ³           ³       values-my.json
+³   ³   ³   ³           ³       values-nb.json
+³   ³   ³   ³           ³       values-ne.json
+³   ³   ³   ³           ³       values-night-v8.json
+³   ³   ³   ³           ³       values-nl.json
+³   ³   ³   ³           ³       values-or.json
+³   ³   ³   ³           ³       values-pa.json
+³   ³   ³   ³           ³       values-pl.json
+³   ³   ³   ³           ³       values-port.json
+³   ³   ³   ³           ³       values-pt-rBR.json
+³   ³   ³   ³           ³       values-pt-rPT.json
+³   ³   ³   ³           ³       values-pt.json
+³   ³   ³   ³           ³       values-ro.json
+³   ³   ³   ³           ³       values-ru.json
+³   ³   ³   ³           ³       values-si.json
+³   ³   ³   ³           ³       values-sk.json
+³   ³   ³   ³           ³       values-sl.json
+³   ³   ³   ³           ³       values-small-v4.json
+³   ³   ³   ³           ³       values-sq.json
+³   ³   ³   ³           ³       values-sr.json
+³   ³   ³   ³           ³       values-sv.json
+³   ³   ³   ³           ³       values-sw.json
+³   ³   ³   ³           ³       values-sw600dp-v13.json
+³   ³   ³   ³           ³       values-ta.json
+³   ³   ³   ³           ³       values-te.json
+³   ³   ³   ³           ³       values-th.json
+³   ³   ³   ³           ³       values-tl.json
+³   ³   ³   ³           ³       values-tr.json
+³   ³   ³   ³           ³       values-uk.json
+³   ³   ³   ³           ³       values-ur.json
+³   ³   ³   ³           ³       values-uz.json
+³   ³   ³   ³           ³       values-v16.json
+³   ³   ³   ³           ³       values-v17.json
+³   ³   ³   ³           ³       values-v18.json
+³   ³   ³   ³           ³       values-v21.json
+³   ³   ³   ³           ³       values-v22.json
+³   ³   ³   ³           ³       values-v23.json
+³   ³   ³   ³           ³       values-v24.json
+³   ³   ³   ³           ³       values-v25.json
+³   ³   ³   ³           ³       values-v26.json
+³   ³   ³   ³           ³       values-v28.json
+³   ³   ³   ³           ³       values-vi.json
+³   ³   ³   ³           ³       values-w320dp-land-v13.json
+³   ³   ³   ³           ³       values-w360dp-port-v13.json
+³   ³   ³   ³           ³       values-w480dp-port-v13.json
+³   ³   ³   ³           ³       values-w550dp-land-v13.json
+³   ³   ³   ³           ³       values-w600dp-land-v13.json
+³   ³   ³   ³           ³       values-watch-v20.json
+³   ³   ³   ³           ³       values-watch-v21.json
+³   ³   ³   ³           ³       values-xlarge-v4.json
+³   ³   ³   ³           ³       values-zh-rCN.json
+³   ³   ³   ³           ³       values-zh-rHK.json
+³   ³   ³   ³           ³       values-zh-rTW.json
+³   ³   ³   ³           ³       values-zu.json
+³   ³   ³   ³           ³       values.json
+³   ³   ³   ³           ³       
+³   ³   ³   ³           ÀÄÄÄsingle
+³   ³   ³   ³                   debug.json
+³   ³   ³   ³                   
+³   ³   ³   ÃÄÄÄmerged_shaders
+³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³       ÀÄÄÄout
+³   ³   ³   ÃÄÄÄmixed_scope_dex_archive
+³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³       ÀÄÄÄout
+³   ³   ³   ÃÄÄÄnavigation_json
+³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³           navigation.json
+³   ³   ³   ³           
+³   ³   ³   ÃÄÄÄpackaged_manifests
+³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³           AndroidManifest.xml
+³   ³   ³   ³           output-metadata.json
+³   ³   ³   ³           
+³   ³   ³   ÃÄÄÄprocessed_res
+³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³       ÀÄÄÄout
+³   ³   ³   ³               output-metadata.json
+³   ³   ³   ³               resources-debug.ap_
+³   ³   ³   ³               
+³   ³   ³   ÃÄÄÄproject_dex_archive
+³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³       ÀÄÄÄout
+³   ³   ³   ³           ³   3d0a6af6ea72e926be25e0388d9ae3cd4665a09c1a1e5300e3f89f46ebb0d3ba_0.jar
+³   ³   ³   ³           ³   3d0a6af6ea72e926be25e0388d9ae3cd4665a09c1a1e5300e3f89f46ebb0d3ba_1.jar
+³   ³   ³   ³           ³   3d0a6af6ea72e926be25e0388d9ae3cd4665a09c1a1e5300e3f89f46ebb0d3ba_2.jar
+³   ³   ³   ³           ³   
+³   ³   ³   ³           ÀÄÄÄorg
+³   ³   ³   ³               ÀÄÄÄtpoly
+³   ³   ³   ³                   ÀÄÄÄpendingsubmissionsviewer
+³   ³   ³   ³                       ³   BuildConfig.dex
+³   ³   ³   ³                       ³   ClassroomServiceHelper$1.dex
+³   ³   ³   ³                       ³   ClassroomServiceHelper$2.dex
+³   ³   ³   ³                       ³   ClassroomServiceHelper$3.dex
+³   ³   ³   ³                       ³   ClassroomServiceHelper.dex
+³   ³   ³   ³                       ³   
+³   ³   ³   ³                       ÃÄÄÄactivities
+³   ³   ³   ³                       ³       CoursesViewer$1.dex
+³   ³   ³   ³                       ³       CoursesViewer$2.dex
+³   ³   ³   ³                       ³       CoursesViewer$3.dex
+³   ³   ³   ³                       ³       CoursesViewer.dex
+³   ³   ³   ³                       ³       LoginActivity$1.dex
+³   ³   ³   ³                       ³       LoginActivity$2.dex
+³   ³   ³   ³                       ³       LoginActivity$3.dex
+³   ³   ³   ³                       ³       LoginActivity$4.dex
+³   ³   ³   ³                       ³       LoginActivity$5.dex
+³   ³   ³   ³                       ³       LoginActivity.dex
+³   ³   ³   ³                       ³       MainActivity$1.dex
+³   ³   ³   ³                       ³       MainActivity$2.dex
+³   ³   ³   ³                       ³       MainActivity.dex
+³   ³   ³   ³                       ³       SubmissionsViewer.dex
+³   ³   ³   ³                       ³       
+³   ³   ³   ³                       ÃÄÄÄadapter
+³   ³   ³   ³                       ³       AssignmentAdapter$ViewHolder$1$1.dex
+³   ³   ³   ³                       ³       AssignmentAdapter$ViewHolder$1.dex
+³   ³   ³   ³                       ³       AssignmentAdapter$ViewHolder$2.dex
+³   ³   ³   ³                       ³       AssignmentAdapter$ViewHolder$3.dex
+³   ³   ³   ³                       ³       AssignmentAdapter$ViewHolder.dex
+³   ³   ³   ³                       ³       AssignmentAdapter.dex
+³   ³   ³   ³                       ³       AssignmentPagerAdapter.dex
+³   ³   ³   ³                       ³       CourseAdapter$ViewHolder.dex
+³   ³   ³   ³                       ³       CourseAdapter.dex
+³   ³   ³   ³                       ³       
+³   ³   ³   ³                       ÀÄÄÄfragments
+³   ³   ³   ³                               SubmissionFragment.dex
+³   ³   ³   ³                               
+³   ³   ³   ÃÄÄÄres
+³   ³   ³   ³   ÀÄÄÄmerged
+³   ³   ³   ³       ÀÄÄÄdebug
+³   ³   ³   ³               drawable-anydpi-v21_ic_baseline_more_vert_16.xml.flat
+³   ³   ³   ³               drawable-anydpi-v21_ic_baseline_more_vert_24.xml.flat
+³   ³   ³   ³               drawable-anydpi-v21_ic_keyboard_arrow_down_black_24dp.xml.flat
+³   ³   ³   ³               drawable-anydpi-v21_ic_keyboard_arrow_up_black_24dp.xml.flat
+³   ³   ³   ³               drawable-anydpi-v21_ic_launcher_background.xml.flat
+³   ³   ³   ³               drawable-anydpi-v24_ic_launcher_foreground.xml.flat
+³   ³   ³   ³               drawable-hdpi_ic_baseline_more_vert_16.png.flat
+³   ³   ³   ³               drawable-hdpi_ic_baseline_more_vert_24.png.flat
+³   ³   ³   ³               drawable-hdpi_ic_keyboard_arrow_down_black_24dp.png.flat
+³   ³   ³   ³               drawable-hdpi_ic_keyboard_arrow_up_black_24dp.png.flat
+³   ³   ³   ³               drawable-hdpi_ic_launcher_background.png.flat
+³   ³   ³   ³               drawable-ldpi_ic_baseline_more_vert_16.png.flat
+³   ³   ³   ³               drawable-ldpi_ic_baseline_more_vert_24.png.flat
+³   ³   ³   ³               drawable-ldpi_ic_keyboard_arrow_down_black_24dp.png.flat
+³   ³   ³   ³               drawable-ldpi_ic_keyboard_arrow_up_black_24dp.png.flat
+³   ³   ³   ³               drawable-ldpi_ic_launcher_background.png.flat
+³   ³   ³   ³               drawable-mdpi_ic_baseline_more_vert_16.png.flat
+³   ³   ³   ³               drawable-mdpi_ic_baseline_more_vert_24.png.flat
+³   ³   ³   ³               drawable-mdpi_ic_keyboard_arrow_down_black_24dp.png.flat
+³   ³   ³   ³               drawable-mdpi_ic_keyboard_arrow_up_black_24dp.png.flat
+³   ³   ³   ³               drawable-mdpi_ic_launcher_background.png.flat
+³   ³   ³   ³               drawable-xhdpi_ic_baseline_more_vert_16.png.flat
+³   ³   ³   ³               drawable-xhdpi_ic_baseline_more_vert_24.png.flat
+³   ³   ³   ³               drawable-xhdpi_ic_keyboard_arrow_down_black_24dp.png.flat
+³   ³   ³   ³               drawable-xhdpi_ic_keyboard_arrow_up_black_24dp.png.flat
+³   ³   ³   ³               drawable-xhdpi_ic_launcher_background.png.flat
+³   ³   ³   ³               drawable-xxhdpi_ic_baseline_more_vert_16.png.flat
+³   ³   ³   ³               drawable-xxhdpi_ic_baseline_more_vert_24.png.flat
+³   ³   ³   ³               drawable-xxhdpi_ic_keyboard_arrow_down_black_24dp.png.flat
+³   ³   ³   ³               drawable-xxhdpi_ic_keyboard_arrow_up_black_24dp.png.flat
+³   ³   ³   ³               drawable-xxhdpi_ic_launcher_background.png.flat
+³   ³   ³   ³               drawable-xxxhdpi_ic_baseline_more_vert_16.png.flat
+³   ³   ³   ³               drawable-xxxhdpi_ic_baseline_more_vert_24.png.flat
+³   ³   ³   ³               drawable-xxxhdpi_ic_keyboard_arrow_down_black_24dp.png.flat
+³   ³   ³   ³               drawable-xxxhdpi_ic_keyboard_arrow_up_black_24dp.png.flat
+³   ³   ³   ³               drawable-xxxhdpi_ic_launcher_background.png.flat
+³   ³   ³   ³               drawable_customborder.xml.flat
+³   ³   ³   ³               drawable_googleg_color.xml.flat
+³   ³   ³   ³               drawable_logout.png.flat
+³   ³   ³   ³               drawable_woman.xml.flat
+³   ³   ³   ³               layout_activity_main.xml.flat
+³   ³   ³   ³               layout_assignment.xml.flat
+³   ³   ³   ³               layout_assignments.xml.flat
+³   ³   ³   ³               layout_course.xml.flat
+³   ³   ³   ³               layout_courses.xml.flat
+³   ³   ³   ³               layout_submission.xml.flat
+³   ³   ³   ³               layout_submissions.xml.flat
+³   ³   ³   ³               menu_item_mo.xml.flat
+³   ³   ³   ³               menu_menu.xml.flat
+³   ³   ³   ³               mipmap-anydpi-v26_ic_launcher.xml.flat
+³   ³   ³   ³               mipmap-anydpi-v26_ic_launcher_round.xml.flat
+³   ³   ³   ³               mipmap-hdpi_ic_launcher.png.flat
+³   ³   ³   ³               mipmap-hdpi_ic_launcher_round.png.flat
+³   ³   ³   ³               mipmap-mdpi_ic_launcher.png.flat
+³   ³   ³   ³               mipmap-mdpi_ic_launcher_round.png.flat
+³   ³   ³   ³               mipmap-xhdpi_ic_launcher.png.flat
+³   ³   ³   ³               mipmap-xhdpi_ic_launcher_round.png.flat
+³   ³   ³   ³               mipmap-xxhdpi_ic_launcher.png.flat
+³   ³   ³   ³               mipmap-xxhdpi_ic_launcher_round.png.flat
+³   ³   ³   ³               mipmap-xxxhdpi_ic_launcher.png.flat
+³   ³   ³   ³               mipmap-xxxhdpi_ic_launcher_round.png.flat
+³   ³   ³   ³               values-af_values-af.arsc.flat
+³   ³   ³   ³               values-am_values-am.arsc.flat
+³   ³   ³   ³               values-ar_values-ar.arsc.flat
+³   ³   ³   ³               values-as_values-as.arsc.flat
+³   ³   ³   ³               values-az_values-az.arsc.flat
+³   ³   ³   ³               values-b+es+419_values-b+es+419.arsc.flat
+³   ³   ³   ³               values-b+sr+Latn_values-b+sr+Latn.arsc.flat
+³   ³   ³   ³               values-be_values-be.arsc.flat
+³   ³   ³   ³               values-bg_values-bg.arsc.flat
+³   ³   ³   ³               values-bn_values-bn.arsc.flat
+³   ³   ³   ³               values-bs_values-bs.arsc.flat
+³   ³   ³   ³               values-ca_values-ca.arsc.flat
+³   ³   ³   ³               values-cs_values-cs.arsc.flat
+³   ³   ³   ³               values-da_values-da.arsc.flat
+³   ³   ³   ³               values-de_values-de.arsc.flat
+³   ³   ³   ³               values-el_values-el.arsc.flat
+³   ³   ³   ³               values-en-rAU_values-en-rAU.arsc.flat
+³   ³   ³   ³               values-en-rCA_values-en-rCA.arsc.flat
+³   ³   ³   ³               values-en-rGB_values-en-rGB.arsc.flat
+³   ³   ³   ³               values-en-rIN_values-en-rIN.arsc.flat
+³   ³   ³   ³               values-en-rXC_values-en-rXC.arsc.flat
+³   ³   ³   ³               values-es-rUS_values-es-rUS.arsc.flat
+³   ³   ³   ³               values-es_values-es.arsc.flat
+³   ³   ³   ³               values-et_values-et.arsc.flat
+³   ³   ³   ³               values-eu_values-eu.arsc.flat
+³   ³   ³   ³               values-fa_values-fa.arsc.flat
+³   ³   ³   ³               values-fi_values-fi.arsc.flat
+³   ³   ³   ³               values-fr-rCA_values-fr-rCA.arsc.flat
+³   ³   ³   ³               values-fr_values-fr.arsc.flat
+³   ³   ³   ³               values-gl_values-gl.arsc.flat
+³   ³   ³   ³               values-gu_values-gu.arsc.flat
+³   ³   ³   ³               values-h320dp-port-v13_values-h320dp-port-v13.arsc.flat
+³   ³   ³   ³               values-h360dp-land-v13_values-h360dp-land-v13.arsc.flat
+³   ³   ³   ³               values-h480dp-land-v13_values-h480dp-land-v13.arsc.flat
+³   ³   ³   ³               values-h550dp-port-v13_values-h550dp-port-v13.arsc.flat
+³   ³   ³   ³               values-h600dp-port-v13_values-h600dp-port-v13.arsc.flat
+³   ³   ³   ³               values-h720dp-v13_values-h720dp-v13.arsc.flat
+³   ³   ³   ³               values-hdpi-v4_values-hdpi-v4.arsc.flat
+³   ³   ³   ³               values-hi_values-hi.arsc.flat
+³   ³   ³   ³               values-hr_values-hr.arsc.flat
+³   ³   ³   ³               values-hu_values-hu.arsc.flat
+³   ³   ³   ³               values-hy_values-hy.arsc.flat
+³   ³   ³   ³               values-in_values-in.arsc.flat
+³   ³   ³   ³               values-is_values-is.arsc.flat
+³   ³   ³   ³               values-it_values-it.arsc.flat
+³   ³   ³   ³               values-iw_values-iw.arsc.flat
+³   ³   ³   ³               values-ja_values-ja.arsc.flat
+³   ³   ³   ³               values-ka_values-ka.arsc.flat
+³   ³   ³   ³               values-kk_values-kk.arsc.flat
+³   ³   ³   ³               values-km_values-km.arsc.flat
+³   ³   ³   ³               values-kn_values-kn.arsc.flat
+³   ³   ³   ³               values-ko_values-ko.arsc.flat
+³   ³   ³   ³               values-ky_values-ky.arsc.flat
+³   ³   ³   ³               values-land_values-land.arsc.flat
+³   ³   ³   ³               values-large-v4_values-large-v4.arsc.flat
+³   ³   ³   ³               values-ldltr-v21_values-ldltr-v21.arsc.flat
+³   ³   ³   ³               values-ldrtl-v17_values-ldrtl-v17.arsc.flat
+³   ³   ³   ³               values-lo_values-lo.arsc.flat
+³   ³   ³   ³               values-lt_values-lt.arsc.flat
+³   ³   ³   ³               values-lv_values-lv.arsc.flat
+³   ³   ³   ³               values-mk_values-mk.arsc.flat
+³   ³   ³   ³               values-ml_values-ml.arsc.flat
+³   ³   ³   ³               values-mn_values-mn.arsc.flat
+³   ³   ³   ³               values-mr_values-mr.arsc.flat
+³   ³   ³   ³               values-ms_values-ms.arsc.flat
+³   ³   ³   ³               values-my_values-my.arsc.flat
+³   ³   ³   ³               values-nb_values-nb.arsc.flat
+³   ³   ³   ³               values-ne_values-ne.arsc.flat
+³   ³   ³   ³               values-night-v8_values-night-v8.arsc.flat
+³   ³   ³   ³               values-nl_values-nl.arsc.flat
+³   ³   ³   ³               values-or_values-or.arsc.flat
+³   ³   ³   ³               values-pa_values-pa.arsc.flat
+³   ³   ³   ³               values-pl_values-pl.arsc.flat
+³   ³   ³   ³               values-port_values-port.arsc.flat
+³   ³   ³   ³               values-pt-rBR_values-pt-rBR.arsc.flat
+³   ³   ³   ³               values-pt-rPT_values-pt-rPT.arsc.flat
+³   ³   ³   ³               values-pt_values-pt.arsc.flat
+³   ³   ³   ³               values-ro_values-ro.arsc.flat
+³   ³   ³   ³               values-ru_values-ru.arsc.flat
+³   ³   ³   ³               values-si_values-si.arsc.flat
+³   ³   ³   ³               values-sk_values-sk.arsc.flat
+³   ³   ³   ³               values-sl_values-sl.arsc.flat
+³   ³   ³   ³               values-small-v4_values-small-v4.arsc.flat
+³   ³   ³   ³               values-sq_values-sq.arsc.flat
+³   ³   ³   ³               values-sr_values-sr.arsc.flat
+³   ³   ³   ³               values-sv_values-sv.arsc.flat
+³   ³   ³   ³               values-sw600dp-v13_values-sw600dp-v13.arsc.flat
+³   ³   ³   ³               values-sw_values-sw.arsc.flat
+³   ³   ³   ³               values-ta_values-ta.arsc.flat
+³   ³   ³   ³               values-te_values-te.arsc.flat
+³   ³   ³   ³               values-th_values-th.arsc.flat
+³   ³   ³   ³               values-tl_values-tl.arsc.flat
+³   ³   ³   ³               values-tr_values-tr.arsc.flat
+³   ³   ³   ³               values-uk_values-uk.arsc.flat
+³   ³   ³   ³               values-ur_values-ur.arsc.flat
+³   ³   ³   ³               values-uz_values-uz.arsc.flat
+³   ³   ³   ³               values-v16_values-v16.arsc.flat
+³   ³   ³   ³               values-v17_values-v17.arsc.flat
+³   ³   ³   ³               values-v18_values-v18.arsc.flat
+³   ³   ³   ³               values-v21_values-v21.arsc.flat
+³   ³   ³   ³               values-v22_values-v22.arsc.flat
+³   ³   ³   ³               values-v23_values-v23.arsc.flat
+³   ³   ³   ³               values-v24_values-v24.arsc.flat
+³   ³   ³   ³               values-v25_values-v25.arsc.flat
+³   ³   ³   ³               values-v26_values-v26.arsc.flat
+³   ³   ³   ³               values-v28_values-v28.arsc.flat
+³   ³   ³   ³               values-vi_values-vi.arsc.flat
+³   ³   ³   ³               values-w320dp-land-v13_values-w320dp-land-v13.arsc.flat
+³   ³   ³   ³               values-w360dp-port-v13_values-w360dp-port-v13.arsc.flat
+³   ³   ³   ³               values-w480dp-port-v13_values-w480dp-port-v13.arsc.flat
+³   ³   ³   ³               values-w550dp-land-v13_values-w550dp-land-v13.arsc.flat
+³   ³   ³   ³               values-w600dp-land-v13_values-w600dp-land-v13.arsc.flat
+³   ³   ³   ³               values-watch-v20_values-watch-v20.arsc.flat
+³   ³   ³   ³               values-watch-v21_values-watch-v21.arsc.flat
+³   ³   ³   ³               values-xlarge-v4_values-xlarge-v4.arsc.flat
+³   ³   ³   ³               values-zh-rCN_values-zh-rCN.arsc.flat
+³   ³   ³   ³               values-zh-rHK_values-zh-rHK.arsc.flat
+³   ³   ³   ³               values-zh-rTW_values-zh-rTW.arsc.flat
+³   ³   ³   ³               values-zu_values-zu.arsc.flat
+³   ³   ³   ³               values_values.arsc.flat
+³   ³   ³   ³               
+³   ³   ³   ÃÄÄÄruntime_symbol_list
+³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³           R.txt
+³   ³   ³   ³           
+³   ³   ³   ÃÄÄÄsigning_config_versions
+³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³           signing-config-versions.json
+³   ³   ³   ³           
+³   ³   ³   ÃÄÄÄstable_resource_ids_file
+³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³           stableIds.txt
+³   ³   ³   ³           
+³   ³   ³   ÃÄÄÄsub_project_dex_archive
+³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³       ÀÄÄÄout
+³   ³   ³   ÃÄÄÄsymbol_list_with_package_name
+³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³           package-aware-r.txt
+³   ³   ³   ³           
+³   ³   ³   ÀÄÄÄvalidate_signing_config
+³   ³   ³       ÀÄÄÄdebug
+³   ³   ÃÄÄÄoutputs
+³   ³   ³   ÃÄÄÄapk
+³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³           app-debug.apk
+³   ³   ³   ³           output-metadata.json
+³   ³   ³   ³           
+³   ³   ³   ÀÄÄÄlogs
+³   ³   ³           manifest-merger-debug-report.txt
+³   ³   ³           
+³   ³   ÀÄÄÄtmp
+³   ³       ÀÄÄÄcompileDebugJavaWithJavac
+³   ³               source-classes-mapping.txt
+³   ³               
+³   ÃÄÄÄlibs
+³   ÀÄÄÄsrc
+³       ÃÄÄÄandroidTest
+³       ³   ÀÄÄÄjava
+³       ³       ÀÄÄÄorg
+³       ³           ÀÄÄÄtpoly
+³       ³               ÀÄÄÄpendingsubmissionsviewer
+³       ³                       ExampleInstrumentedTest.java
+³       ³                       
+³       ÃÄÄÄmain
+³       ³   ³   AndroidManifest.xml
+³       ³   ³   
+³       ³   ÃÄÄÄjava
+³       ³   ³   ÀÄÄÄorg
+³       ³   ³       ÀÄÄÄtpoly
+³       ³   ³           ÀÄÄÄpendingsubmissionsviewer
+³       ³   ³               ³   ClassroomServiceHelper.java
+³       ³   ³               ³   
+³       ³   ³               ÃÄÄÄactivities
+³       ³   ³               ³       CoursesViewer.java
+³       ³   ³               ³       LoginActivity.java
+³       ³   ³               ³       MainActivity.java
+³       ³   ³               ³       SubmissionsViewer.java
+³       ³   ³               ³       
+³       ³   ³               ÃÄÄÄadapter
+³       ³   ³               ³       AssignmentAdapter.java
+³       ³   ³               ³       AssignmentPagerAdapter.java
+³       ³   ³               ³       CourseAdapter.java
+³       ³   ³               ³       
+³       ³   ³               ÀÄÄÄfragments
+³       ³   ³                       SubmissionFragment.java
+³       ³   ³                       
+³       ³   ÀÄÄÄres
+³       ³       ÃÄÄÄcolor
+³       ³       ÃÄÄÄdrawable
+³       ³       ³       customborder.xml
+³       ³       ³       googleg_color.xml
+³       ³       ³       ic_baseline_more_vert_16.xml
+³       ³       ³       ic_baseline_more_vert_24.xml
+³       ³       ³       ic_keyboard_arrow_down_black_24dp.xml
+³       ³       ³       ic_keyboard_arrow_up_black_24dp.xml
+³       ³       ³       ic_launcher_background.xml
+³       ³       ³       logout.png
+³       ³       ³       woman.xml
+³       ³       ³       
+³       ³       ÃÄÄÄdrawable-v24
+³       ³       ³       ic_launcher_foreground.xml
+³       ³       ³       
+³       ³       ÃÄÄÄlayout
+³       ³       ³       activity_main.xml
+³       ³       ³       assignment.xml
+³       ³       ³       assignments.xml
+³       ³       ³       course.xml
+³       ³       ³       courses.xml
+³       ³       ³       submission.xml
+³       ³       ³       submissions.xml
+³       ³       ³       
+³       ³       ÃÄÄÄmenu
+³       ³       ³       item_mo.xml
+³       ³       ³       menu.xml
+³       ³       ³       
+³       ³       ÃÄÄÄmipmap-anydpi-v26
+³       ³       ³       ic_launcher.xml
+³       ³       ³       ic_launcher_round.xml
+³       ³       ³       
+³       ³       ÃÄÄÄmipmap-hdpi
+³       ³       ³       ic_launcher.png
+³       ³       ³       ic_launcher_round.png
+³       ³       ³       
+³       ³       ÃÄÄÄmipmap-mdpi
+³       ³       ³       ic_launcher.png
+³       ³       ³       ic_launcher_round.png
+³       ³       ³       
+³       ³       ÃÄÄÄmipmap-xhdpi
+³       ³       ³       ic_launcher.png
+³       ³       ³       ic_launcher_round.png
+³       ³       ³       
+³       ³       ÃÄÄÄmipmap-xxhdpi
+³       ³       ³       ic_launcher.png
+³       ³       ³       ic_launcher_round.png
+³       ³       ³       
+³       ³       ÃÄÄÄmipmap-xxxhdpi
+³       ³       ³       ic_launcher.png
+³       ³       ³       ic_launcher_round.png
+³       ³       ³       
+³       ³       ÃÄÄÄvalues
+³       ³       ³       colors.xml
+³       ³       ³       dimens.xml
+³       ³       ³       strings.xml
+³       ³       ³       styles.xml
+³       ³       ³       themes.xml
+³       ³       ³       
+³       ³       ÀÄÄÄvalues-night
+³       ³               themes.xml
+³       ³               
+³       ÀÄÄÄtest
+³           ÀÄÄÄjava
+³               ÀÄÄÄorg
+³                   ÀÄÄÄtpoly
+³                       ÀÄÄÄpendingsubmissionsviewer
+³                               ExampleUnitTest.java
+³                               
+ÀÄÄÄgradle
+    ÀÄÄÄwrapper
+            gradle-wrapper.jar
+            gradle-wrapper.properties
+            

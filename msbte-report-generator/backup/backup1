@@ -1,0 +1,305 @@
+import javax.swing.*;
+import java.util.*;
+import javax.imageio.ImageIO;
+import java.time.Duration;
+
+import java.awt.Color;
+import java.awt.Graphics2D;
+import java.awt.Graphics;
+import java.awt.Toolkit;
+import java.awt.Image;
+import java.awt.event.*;
+import java.awt.image.*;
+
+class GUI extends JFrame
+{
+
+  final CustomSlider cs = new CustomSlider();
+  final KeyListener kL = new KeyAdapter(){
+
+      int sB;
+
+      public void keyPressed(KeyEvent e) {
+
+       switch(e.getKeyCode())
+       { 
+         case KeyEvent.VK_UP:
+         case KeyEvent.VK_LEFT:
+	  sB = cs.getScreenNumber() - 1;
+          if(sB>0) cs.animateToScreen(sB, 500);
+	  break;
+         case KeyEvent.VK_DOWN:
+         case KeyEvent.VK_RIGHT:
+	  sB = cs.getScreenNumber() + 1;
+          if(sB<=3) cs.animateToScreen(sB, 500);
+	  break;
+       }
+     } 
+    };
+
+  GUI()
+  {
+    final JPanel panel1 = new JPanel();
+    final JPanel panel2 = new JPanel();
+
+    
+
+    add(cs);
+
+    addKeyListener(kL);
+
+
+    getContentPane().setLayout(new BoxLayout(getContentPane(), BoxLayout.Y_AXIS));
+    // getContentPane().setColor(Color.WHITE);
+
+    // add(Box.createVerticalStrut(8));
+
+    JLabel label = new JLabel("Generating reports for diploma students made easier");
+    label.setAlignmentX(JLabel.CENTER_ALIGNMENT);
+    add(label);
+
+    add(Box.createVerticalStrut(10));
+
+    JButton button = new JButton("Continue");
+    button.setAlignmentX(JLabel.CENTER_ALIGNMENT);
+    button.addKeyListener(kL);
+    add(button);
+
+    add(Box.createVerticalStrut(12));
+
+    setDefaultCloseOperation(EXIT_ON_CLOSE);
+    setSize(384, 402);
+    setResizable(false);
+    setVisible(true);
+  }
+
+  public static void main(String args[]){new GUI();}
+}
+
+class CustomSlider extends JPanel
+{
+  private final Image introImage = Toolkit.getDefaultToolkit().getImage("4.png");
+  private Ticker t;
+  private int x = 0;
+  private Thread checker = new Thread(){
+    public void run()
+    {
+        while(true)
+	{
+           try{Thread.sleep(3000);}catch(Exception e){}
+	   final int sn = getScreenNumber()+1;
+           if(sn<4) animateToScreen(sn, 700);
+           else animateToScreen(1, 700);
+           try{Thread.sleep(4000);}catch(Exception e){}
+        }
+    }
+  };
+
+  private final MouseAdapter mA = new MouseAdapter(){
+
+       int lastX = 0;
+       Boolean dir = false;
+
+       public void mouseReleased(MouseEvent e) {
+	 autoAdjust();
+         dir = null;
+       }
+
+       public void mouseDragged(MouseEvent e)
+       {
+	 Boolean newDir = lastX>e.getX();
+	 if(dir!=newDir){
+	  // if(dir!=null) System.out.println("Direction changed!");
+	  lastX = e.getX();
+ 	 }
+         dir = newDir;
+         if(dir==null) return;
+         int xx = x + (lastX-e.getX())/13;
+
+         if(xx!=x && xx>=0 && xx<=774)
+	 {
+	   x=xx;
+           repaint();
+	 }
+       }
+
+       public void mousePressed(MouseEvent e) {
+         lastX = e.getX();
+       }
+
+    };
+
+  CustomSlider()
+  {
+    init();
+    addMouseListener(mA);
+    addMouseMotionListener(mA);
+  }
+
+  public int getScreenNumber()
+  {
+    if(x<194) return 1;
+    if(x<580) return 2;
+    return 3;
+  }
+
+  public void jumpTo(int offset)
+  {
+    if(t!=null&&!t.isStopped()) t.stop();
+    x = offset;
+    repaint();
+  }
+
+  public void autoAdjust()
+  {
+    final int sn = getScreenNumber();
+    animateToScreen(sn, 700);
+  }
+
+  public void animateToScreen(int number, int animDuration)
+  {
+    final int offset = getOffsetForScreen(number);
+    // System.out.println("Auto-adjusting to..."+offset);
+    animateTo(offset, animDuration);    
+  }
+
+  public int getOffsetForScreen(int number)
+  {
+    switch(number)
+    {
+      case 1: return 0;
+      case 2: return 387;
+      case 3: return 774;
+      default: return -1;
+    }
+  }
+
+  public void animateTo(int offset, double animDuration)
+  {
+    if(offset!=x && offset<0 && offset>774) return;
+    if(t!=null&&!t.isStopped()) t.stop();
+    t = new Ticker(){
+
+      int start = x;
+      int diff  = offset-x;
+
+      public void onTick(Ticker t, Duration duration)
+      {
+        double d = duration.toMillis()/animDuration;
+	x = start + (int)(d*diff);
+        if(d>=1)
+        {
+          t.stop();
+          x = offset;
+        }
+	repaint();
+      }
+    };
+    t.start();
+  }
+
+  private void init()
+  {
+    checker.start();
+    Runtime.getRuntime().addShutdownHook(new Thread(){
+      public void run()
+      {
+	checker.stop();
+      }
+    });
+    setSize(introImage.getWidth(this), introImage.getHeight(this));
+  }
+
+  protected void paintComponent(Graphics g) {
+    super.paintComponent(g);
+    g.drawImage(introImage,-x, 0, introImage.getWidth(null), introImage.getHeight(null), this);
+  }
+}
+
+class ImageSlider extends JPanel
+{
+  private final Image[] images;
+
+  ImageSlider(final Image[] images)
+  {
+    this.images = images;
+  }
+}
+
+abstract class Ticker
+{
+  private CustomWorker worker;
+
+  abstract public void onTick(Ticker t, Duration d);
+
+  public void start()
+  {
+    if(worker!=null) worker.cancel(false);
+    worker = new CustomWorker(this){
+      public Void doInBackground()
+      {
+        start = System.currentTimeMillis();
+        while(!isCancelled()) 
+          if(isPlaying) onTick(parent, Duration.ofMillis(System.currentTimeMillis()-start-pause));
+        return null;
+      }
+    };
+    worker.execute();
+  }
+
+  public void pause()
+  {
+    worker.pause();
+  }
+
+  public void play()
+  {
+    worker.play();
+  }
+
+  public void stop()
+  {
+    worker.cancel(false);
+    worker = null;
+  }
+
+  public Boolean isStopped()
+  {
+    return worker==null;
+  }
+
+  public Boolean isPaused()
+  {
+    return worker==null?null:worker.isPaused();
+  }
+
+  public Boolean isPlaying()
+  {
+    return worker==null?null:worker.isPlaying();
+  }
+}
+
+abstract class CustomWorker extends SwingWorker<Void, Void>
+{
+  public long start;
+  public long pause = 0;
+  public boolean isPlaying = true;
+  public final Ticker parent;
+
+  CustomWorker(final Ticker parent){this.parent=parent;}
+  
+  public void pause()
+  {
+    isPlaying = false;
+    pause=System.currentTimeMillis()-pause;
+  }
+
+  public void play()
+  {
+    pause=System.currentTimeMillis()-pause;
+    isPlaying=true;
+  }
+
+  public boolean isPaused(){return !isPlaying;}
+  public boolean isPlaying(){return isPlaying;}
+}

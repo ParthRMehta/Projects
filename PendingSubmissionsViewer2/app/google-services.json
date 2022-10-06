@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "574850412002",
+    "project_id": "pending-submissions-viewer",
+    "storage_bucket": "pending-submissions-viewer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:574850412002:android:2b6b3cdad97da72ca99dbb",
+        "android_client_info": {
+          "package_name": "org.tpoly.pendingsubmissionsviewer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "574850412002-s54gbr61tmsq95ugf69te4l8613cb3i1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.tpoly.pendingsubmissionsviewer",
+            "certificate_hash": "f6b3c8d655399bb60046b9335c3b470a20bd6465"
+          }
+        },
+        {
+          "client_id": "574850412002-7ouamuhdmrrl85ilkk55puin14uk0bsr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjvIAYf7DKtbUnc-wqJmNkwSSo_LXBcAc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "574850412002-7ouamuhdmrrl85ilkk55puin14uk0bsr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

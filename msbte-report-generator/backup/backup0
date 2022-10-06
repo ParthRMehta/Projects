@@ -1,0 +1,150 @@
+import javax.swing.*;
+import java.awt.*;
+import java.awt.event.*;
+import java.util.*;
+import java.time.Duration;
+
+class GUI extends JFrame
+{
+  final ArrayList<Image> list = new ArrayList<Image>();
+
+  GUI()
+  {
+    // for(int i=1; i<=3; ++i) list.add(Toolkit.getDefaultToolkit().getImage(i+".png"));	
+    // add(new ImageSlider(list.toArray(new Image[3])));
+
+    add(new JImage(Toolkit.getDefaultToolkit().getImage("4.png")));
+
+    setDefaultCloseOperation(EXIT_ON_CLOSE);
+    setSize(384, 375);// image.getWidth(null)/3, image.getHeight(null)/3
+    setResizable(false);
+    setVisible(true);
+  }
+  public static void main(String args[]){new GUI();}
+}
+
+class JImage extends JPanel
+{
+  private final Image introImage;
+  private Ticker t = null;
+  private final JImage thisC = this;
+  private Graphics gg;
+
+  JImage(final Image image){
+    introImage = image;
+    setSize(750,400);
+  }
+
+  protected void paintComponent(Graphics g) {
+    super.paintComponent(gg=g);
+    // gg.drawImage(introImage, 0, 0, introImage.getWidth(null), introImage.getHeight(null), thisC);
+    // try{Thread.sleep(0);}catch(Exception e){}
+    // gg.drawImage(introImage, 100, 0, introImage.getWidth(null), introImage.getHeight(null), thisC);
+    if(t==null) {
+      t = new Ticker(){
+        public void onTick(Ticker t, Duration duration)
+        {
+          double d = duration.toMillis()/3000.0;
+          System.out.println((int)(d*300));
+          if(d>=1)
+          {
+            t.stop();
+            gg.drawImage(introImage, 300, 0, introImage.getWidth(null), introImage.getHeight(null), thisC);
+            return;
+          }
+          try{Thread.sleep(0);}catch(Exception e){}
+          gg.drawImage(introImage,-(int)(d*300), 0, introImage.getWidth(null), introImage.getHeight(null), thisC);
+        }
+      };
+      t.start();
+    }
+  }
+}
+
+class ImageSlider extends JPanel
+{
+  private final Image[] images;
+
+  ImageSlider(final Image[] images)
+  {
+    this.images = images;
+  }
+}
+
+abstract class Ticker
+{
+  private CustomWorker worker;
+
+  abstract public void onTick(Ticker t, Duration d);
+
+  public void start()
+  {
+    if(worker!=null) worker.cancel(false);
+    worker = new CustomWorker(this){
+      public Void doInBackground()
+      {
+        start = System.currentTimeMillis();
+        while(!isCancelled()) 
+          if(isPlaying) onTick(parent, Duration.ofMillis(System.currentTimeMillis()-start-pause));
+        return null;
+      }
+    };
+    worker.execute();
+  }
+
+  public void pause()
+  {
+    worker.pause();
+  }
+
+  public void play()
+  {
+    worker.play();
+  }
+
+  public void stop()
+  {
+    worker.cancel(false);
+    worker = null;
+  }
+
+  public Boolean isStopped()
+  {
+    return worker==null;
+  }
+
+  public Boolean isPaused()
+  {
+    return worker==null?null:worker.isPaused();
+  }
+
+  public Boolean isPlaying()
+  {
+    return worker==null?null:worker.isPlaying();
+  }
+}
+
+abstract class CustomWorker extends SwingWorker<Void, Void>
+{
+  public long start;
+  public long pause = 0;
+  public boolean isPlaying = true;
+  public final Ticker parent;
+
+  CustomWorker(final Ticker parent){this.parent=parent;}
+  
+  public void pause()
+  {
+    isPlaying = false;
+    pause=System.currentTimeMillis()-pause;
+  }
+
+  public void play()
+  {
+    pause=System.currentTimeMillis()-pause;
+    isPlaying=true;
+  }
+
+  public boolean isPaused(){return !isPlaying;}
+  public boolean isPlaying(){return isPlaying;}
+}
